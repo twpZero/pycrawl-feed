@@ -8,9 +8,6 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2014-0263
 2019-05-14T10:10:17.773-04:00	:CVE-2014-0263 (Score:9.3)['cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8:-', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_rt:-', 'cpe:/o:microsoft:windows_rt_8.1:-', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~x64~', 'cpe:/o:microsoft:windows_server_2012:-', 'cpe:/o:microsoft:windows_server_2012:r2']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2014-0301
-2019-05-13T15:22:30.857-04:00	:CVE-2014-0301 (Score:9.3)['cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8:-', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_server_2003:-:sp2', 'cpe:/o:microsoft:windows_server_2008:-:sp2', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~x64~', 'cpe:/o:microsoft:windows_server_2012:-', 'cpe:/o:microsoft:windows_server_2012:r2', 'cpe:/o:microsoft:windows_vista:-:sp2', 'cpe:/o:microsoft:windows_xp:-:sp2:~~professional~~~', 'cpe:/o:microsoft:windows_xp:-:sp3']
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11691
 2019-05-16T10:20:41.703-04:00	:CVE-2018-11691 (Score:10.0)['cpe:/o:emerson:ve6046_firmware:09.0.12']
 
@@ -40,9 +37,6 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7082
 2019-05-20T12:29:00.537-04:00	:CVE-2018-7082 (Score:9.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7084
-2019-05-20T12:29:00.850-04:00	:CVE-2018-7084 (Score:10.0)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-0708
 2019-05-16T17:48:17.100-04:00	:CVE-2019-0708 (Score:10.0)['cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_server_2008:-:sp2', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~itanium~', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~x64~']
@@ -122,6 +116,12 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12099
 2019-05-16T09:11:33.863-04:00	:CVE-2019-12099 (Score:9.0)['cpe:/a:php-fusion:php-fusion:-', 'cpe:/a:php-fusion:php-fusion:4.01', 'cpe:/a:php-fusion:php-fusion:6.01.9', 'cpe:/a:php-fusion:php-fusion:6.01.10', 'cpe:/a:php-fusion:php-fusion:6.01.15', 'cpe:/a:php-fusion:php-fusion:7.00.1', 'cpe:/a:php-fusion:php-fusion:7.02.01', 'cpe:/a:php-fusion:php-fusion:7.02.02', 'cpe:/a:php-fusion:php-fusion:7.02.03', 'cpe:/a:php-fusion:php-fusion:7.02.04', 'cpe:/a:php-fusion:php-fusion:7.02.05', 'cpe:/a:php-fusion:php-fusion:7.02.06', 'cpe:/a:php-fusion:php-fusion:7.02.07']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12168
+2019-05-21T13:18:23.593-04:00	:CVE-2019-12168 (Score:9.0)['cpe:/o:four-faith:f3x24_firmware:1.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12170
+2019-05-21T13:11:11.613-04:00	:CVE-2019-12170 (Score:9.0)['cpe:/a:atutor:atutor:2.2.4']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12185
 2019-05-20T15:25:56.210-04:00	:CVE-2019-12185 (Score:9.0)['cpe:/a:elabftw:elabftw:1.8.5']
 
@@ -146,8 +146,5 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-4279
 2019-05-20T11:10:32.907-04:00	:CVE-2019-4279 (Score:10.0)['cpe:/a:ibm:websphere_application_server:7.0.0.0', 'cpe:/a:ibm:websphere_application_server:8.5.0.0', 'cpe:/a:ibm:websphere_application_server:8.5.0.0:-:liberty_profile', 'cpe:/a:ibm:websphere_application_server:8.5.0.1', 'cpe:/a:ibm:websphere_application_server:8.5.0.1:-:liberty_profile', 'cpe:/a:ibm:websphere_application_server:8.5.0.2', 'cpe:/a:ibm:websphere_application_server:8.5.0.2:-:liberty_profile', 'cpe:/a:ibm:websphere_application_server:8.5.5.0', 'cpe:/a:ibm:websphere_application_server:8.5.5.0:-:liberty_profile', 'cpe:/a:ibm:websphere_application_server:8.5.5.1', 'cpe:/a:ibm:websphere_application_server:8.5.5.1:-:liberty_profile', 'cpe:/a:ibm:websphere_application_server:8.5.5.2', 'cpe:/a:ibm:websphere_application_server:8.5.5.2:-:liberty_profile', 'cpe:/a:ibm:websphere_application_server:8.5.5.3', 'cpe:/a:ibm:websphere_application_server:8.5.5.3:-:~~liberty_profile~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.4', 'cpe:/a:ibm:websphere_application_server:8.5.5.5', 'cpe:/a:ibm:websphere_application_server:8.5.5.5::~~liberty~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.6', 'cpe:/a:ibm:websphere_application_server:8.5.5.6::~~liberty~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.7', 'cpe:/a:ibm:websphere_application_server:8.5.5.7::~~liberty~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.8', 'cpe:/a:ibm:websphere_application_server:8.5.5.8::~~liberty~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.9', 'cpe:/a:ibm:websphere_application_server:8.5.5.9::~~liberty~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.10', 'cpe:/a:ibm:websphere_application_server:8.5.5.11', 'cpe:/a:ibm:websphere_application_server:8.5.5.12', 'cpe:/a:ibm:websphere_application_server:8.5.5.13', 'cpe:/a:ibm:websphere_application_server:8.5.5.13::~~liberty~~~', 'cpe:/a:ibm:websphere_application_server:8.5.5.14', 'cpe:/a:ibm:websphere_application_server:8.5.5.15', 'cpe:/a:ibm:websphere_application_server:9.0.0.0', 'cpe:/a:ibm:websphere_application_server:9.0.0.1', 'cpe:/a:ibm:websphere_application_server:9.0.0.2', 'cpe:/a:ibm:websphere_application_server:9.0.0.3', 'cpe:/a:ibm:websphere_application_server:9.0.0.4', 'cpe:/a:ibm:websphere_application_server:9.0.0.5', 'cpe:/a:ibm:websphere_application_server:9.0.0.6', 'cpe:/a:ibm:websphere_application_server:9.0.0.7', 'cpe:/a:ibm:websphere_application_server:9.0.0.8', 'cpe:/a:ibm:websphere_application_server:9.0.0.9', 'cpe:/a:ibm:websphere_application_server:9.0.0.10', 'cpe:/a:ibm:websphere_application_server:9.0.0.11']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5021
-2019-05-15T15:29:00.867-04:00	:CVE-2019-5021 (Score:10.0)
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5526
-2019-05-17T09:39:26.637-04:00	:CVE-2019-5526 (Score:9.3)
+2019-05-17T09:39:26.637-04:00	:CVE-2019-5526 (Score:9.3)['cpe:/a:vmware:workstation:15.0.0', 'cpe:/a:vmware:workstation:15.0.1', 'cpe:/a:vmware:workstation:15.0.2', 'cpe:/a:vmware:workstation:15.0.3', 'cpe:/a:vmware:workstation:15.0.4']
