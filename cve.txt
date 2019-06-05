@@ -1,4 +1,7 @@
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14853
+2019-06-04T15:17:52.450-04:00	:CVE-2017-14853 (Score:10.0)['cpe:/a:orpak:siteomat:6.4.414.084']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11930
 2019-05-29T14:35:10.507-04:00	:CVE-2018-11930 (Score:10.0)['cpe:/o:qualcomm:mdm9150_firmware:-', 'cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9640_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:qcs605_firmware:-', 'cpe:/o:qualcomm:qm215_firmware:-', 'cpe:/o:qualcomm:sd_425_firmware:-', 'cpe:/o:qualcomm:sd_427_firmware:-', 'cpe:/o:qualcomm:sd_429_firmware:-', 'cpe:/o:qualcomm:sd_430_firmware:-', 'cpe:/o:qualcomm:sd_435_firmware:-', 'cpe:/o:qualcomm:sd_439_firmware:-', 'cpe:/o:qualcomm:sd_450_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_632_firmware:-', 'cpe:/o:qualcomm:sd_636_firmware:-', 'cpe:/o:qualcomm:sd_675_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-', 'cpe:/o:qualcomm:sd_855_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:sdx20_firmware:-', 'cpe:/o:qualcomm:sdx24_firmware:-', 'cpe:/o:qualcomm:sm7150_firmware:-']
 
@@ -33,7 +36,7 @@
 2019-05-31T12:40:02.813-04:00	:CVE-2018-16217 (Score:9.0)['cpe:/o:yealink:ultra-elegant_ip_phone_sip-t41p_firmware:66.83.0.35']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8029
-2019-05-31T03:29:00.240-04:00	:CVE-2018-8029 (Score:9.0)['cpe:/a:apache:hadoop:2.2.0', 'cpe:/a:apache:hadoop:2.3.0', 'cpe:/a:apache:hadoop:2.4.0', 'cpe:/a:apache:hadoop:2.4.1', 'cpe:/a:apache:hadoop:2.5.0', 'cpe:/a:apache:hadoop:2.5.1', 'cpe:/a:apache:hadoop:2.5.2', 'cpe:/a:apache:hadoop:2.6.0', 'cpe:/a:apache:hadoop:2.6.1', 'cpe:/a:apache:hadoop:2.6.2', 'cpe:/a:apache:hadoop:2.6.3', 'cpe:/a:apache:hadoop:2.6.4', 'cpe:/a:apache:hadoop:2.6.5', 'cpe:/a:apache:hadoop:2.7.0', 'cpe:/a:apache:hadoop:2.7.1', 'cpe:/a:apache:hadoop:2.7.2', 'cpe:/a:apache:hadoop:2.7.3', 'cpe:/a:apache:hadoop:2.7.4', 'cpe:/a:apache:hadoop:2.7.5', 'cpe:/a:apache:hadoop:2.7.6', 'cpe:/a:apache:hadoop:2.7.7', 'cpe:/a:apache:hadoop:2.8.0', 'cpe:/a:apache:hadoop:2.8.1', 'cpe:/a:apache:hadoop:2.8.2', 'cpe:/a:apache:hadoop:2.8.3', 'cpe:/a:apache:hadoop:2.8.4', 'cpe:/a:apache:hadoop:2.9.0', 'cpe:/a:apache:hadoop:2.9.1', 'cpe:/a:apache:hadoop:3.0.0:-', 'cpe:/a:apache:hadoop:3.0.0:alpha1', 'cpe:/a:apache:hadoop:3.0.0:alpha2', 'cpe:/a:apache:hadoop:3.0.0:alpha3', 'cpe:/a:apache:hadoop:3.0.0:alpha4', 'cpe:/a:apache:hadoop:3.0.0:beta1', 'cpe:/a:apache:hadoop:3.0.1', 'cpe:/a:apache:hadoop:3.0.2', 'cpe:/a:apache:hadoop:3.0.3', 'cpe:/a:apache:hadoop:3.1.0']
+2019-06-04T01:29:00.240-04:00	:CVE-2018-8029 (Score:9.0)['cpe:/a:apache:hadoop:2.2.0', 'cpe:/a:apache:hadoop:2.3.0', 'cpe:/a:apache:hadoop:2.4.0', 'cpe:/a:apache:hadoop:2.4.1', 'cpe:/a:apache:hadoop:2.5.0', 'cpe:/a:apache:hadoop:2.5.1', 'cpe:/a:apache:hadoop:2.5.2', 'cpe:/a:apache:hadoop:2.6.0', 'cpe:/a:apache:hadoop:2.6.1', 'cpe:/a:apache:hadoop:2.6.2', 'cpe:/a:apache:hadoop:2.6.3', 'cpe:/a:apache:hadoop:2.6.4', 'cpe:/a:apache:hadoop:2.6.5', 'cpe:/a:apache:hadoop:2.7.0', 'cpe:/a:apache:hadoop:2.7.1', 'cpe:/a:apache:hadoop:2.7.2', 'cpe:/a:apache:hadoop:2.7.3', 'cpe:/a:apache:hadoop:2.7.4', 'cpe:/a:apache:hadoop:2.7.5', 'cpe:/a:apache:hadoop:2.7.6', 'cpe:/a:apache:hadoop:2.7.7', 'cpe:/a:apache:hadoop:2.8.0', 'cpe:/a:apache:hadoop:2.8.1', 'cpe:/a:apache:hadoop:2.8.2', 'cpe:/a:apache:hadoop:2.8.3', 'cpe:/a:apache:hadoop:2.8.4', 'cpe:/a:apache:hadoop:2.9.0', 'cpe:/a:apache:hadoop:2.9.1', 'cpe:/a:apache:hadoop:3.0.0:-', 'cpe:/a:apache:hadoop:3.0.0:alpha1', 'cpe:/a:apache:hadoop:3.0.0:alpha2', 'cpe:/a:apache:hadoop:3.0.0:alpha3', 'cpe:/a:apache:hadoop:3.0.0:alpha4', 'cpe:/a:apache:hadoop:3.0.0:beta1', 'cpe:/a:apache:hadoop:3.0.1', 'cpe:/a:apache:hadoop:3.0.2', 'cpe:/a:apache:hadoop:3.0.3', 'cpe:/a:apache:hadoop:3.1.0']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-10048
 2019-06-03T10:04:28.333-04:00	:CVE-2019-10048 (Score:9.0)['cpe:/a:pydio:pydio:8.2.2']
@@ -41,8 +44,17 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-10853
 2019-05-28T08:51:10.237-04:00	:CVE-2019-10853 (Score:8.3)['cpe:/a:computrols:computrols_building_automation_software:19.0.0']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-10883
+2019-06-04T11:27:49.120-04:00	:CVE-2019-10883 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11646
+2019-06-04T11:36:46.897-04:00	:CVE-2019-11646 (Score:9.0)['cpe:/a:microfocus:service_manager:9.30', 'cpe:/a:microfocus:service_manager:9.31', 'cpe:/a:microfocus:service_manager:9.32', 'cpe:/a:microfocus:service_manager:9.33', 'cpe:/a:microfocus:service_manager:9.34', 'cpe:/a:microfocus:service_manager:9.35', 'cpe:/a:microfocus:service_manager:9.40', 'cpe:/a:microfocus:service_manager:9.41', 'cpe:/a:microfocus:service_manager:9.50', 'cpe:/a:microfocus:service_manager:9.51', 'cpe:/a:microfocus:service_manager:9.52', 'cpe:/a:microfocus:service_manager:9.60', 'cpe:/a:microfocus:service_manager:9.61']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12042
 2019-05-28T12:06:35.900-04:00	:CVE-2019-12042 (Score:10.0)['cpe:/a:pandasecurity:panda_gold_protection:7.01.01']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12177
+2019-06-04T13:40:45.630-04:00	:CVE-2019-12177 (Score:9.3)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12289
 2019-05-28T23:26:00.723-04:00	:CVE-2019-12289 (Score:10.0)['cpe:/o:vstracam:c38s_firmware:ch-sys-48.53.203.119%7e123', 'cpe:/o:vstracam:c7824wip_firmware:ch-sys-48.53.75.119%7e123']
@@ -67,6 +79,12 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3397
 2019-06-03T11:52:57.687-04:00	:CVE-2019-3397 (Score:9.0)['cpe:/a:atlassian:bitbucket:5.13.0', 'cpe:/a:atlassian:bitbucket:5.13.1', 'cpe:/a:atlassian:bitbucket:5.13.2', 'cpe:/a:atlassian:bitbucket:5.13.3', 'cpe:/a:atlassian:bitbucket:5.13.4', 'cpe:/a:atlassian:bitbucket:5.14.0', 'cpe:/a:atlassian:bitbucket:5.14.1', 'cpe:/a:atlassian:bitbucket:5.14.2', 'cpe:/a:atlassian:bitbucket:5.15.0', 'cpe:/a:atlassian:bitbucket:5.15.1', 'cpe:/a:atlassian:bitbucket:5.16.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3567
+2019-06-04T13:37:58.813-04:00	:CVE-2019-3567 (Score:9.3)['cpe:/a:facebook:osquery:3.3.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3846
+2019-06-04T15:53:50.187-04:00	:CVE-2019-3846 (Score:8.3)['cpe:/o:linux:linux_kernel:-', 'cpe:/o:redhat:enterprise_linux:6.0', 'cpe:/o:redhat:enterprise_linux:7.0', 'cpe:/o:redhat:enterprise_linux:8.0']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5589
 2019-05-29T12:07:09.427-04:00	:CVE-2019-5589 (Score:9.3)['cpe:/a:fortinet:forticlient:4.3.0::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.5::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.6::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.7::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.8::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.9::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.10::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.0.11::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.4.0::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.4.1::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.4.2::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.4.3::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.4.4::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.4.5::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.0::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.1::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.2::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.3::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.4::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.5::~~~windows~~', 'cpe:/a:fortinet:forticlient:5.6.6::~~~windows~~', 'cpe:/a:fortinet:forticlient:6.0.0::~~~windows~~', 'cpe:/a:fortinet:forticlient:6.0.1::~~~windows~~', 'cpe:/a:fortinet:forticlient:6.0.2::~~~windows~~', 'cpe:/a:fortinet:forticlient:6.0.3::~~~windows~~', 'cpe:/a:fortinet:forticlient:6.0.4::~~~windows~~', 'cpe:/a:fortinet:forticlient:6.0.5::~~~windows~~']
@@ -238,6 +256,9 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-9871
 2019-06-03T11:57:51.723-04:00	:CVE-2019-9871 (Score:10.0)['cpe:/o:jector:fm-k75_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-9891
+2019-06-04T09:38:27.080-04:00	:CVE-2019-9891 (Score:10.0)['cpe:/a:tldp:advanced_bash-scripting_guide']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-9949
 2019-05-28T21:08:48.260-04:00	:CVE-2019-9949 (Score:9.0)
