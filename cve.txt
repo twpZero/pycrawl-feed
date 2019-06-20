@@ -56,9 +56,6 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1043
 2019-06-13T14:50:02.173-04:00	:CVE-2019-1043 (Score:8.5)['cpe:/o:microsoft:windows_10:-', 'cpe:/o:microsoft:windows_10:1607', 'cpe:/o:microsoft:windows_10:1703', 'cpe:/o:microsoft:windows_10:1709', 'cpe:/o:microsoft:windows_10:1803', 'cpe:/o:microsoft:windows_10:1809', 'cpe:/o:microsoft:windows_10:1903', 'cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_rt_8.1:-', 'cpe:/o:microsoft:windows_server_2008:-:sp2', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~itanium~', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~x64~', 'cpe:/o:microsoft:windows_server_2012:-', 'cpe:/o:microsoft:windows_server_2012:r2', 'cpe:/o:microsoft:windows_server_2016:-', 'cpe:/o:microsoft:windows_server_2016:1803', 'cpe:/o:microsoft:windows_server_2016:1903', 'cpe:/o:microsoft:windows_server_2019:-']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11027
-2019-06-14T08:29:00.383-04:00	:CVE-2019-11027 (Score:10.0)['cpe:/a:openid:ruby-openid:2.8.0']
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11410
 2019-06-18T16:15:12.517-04:00	:CVE-2019-11410 (Score:9.0)['cpe:/a:fusionpbx:fusionpbx:4.4.3']
 
@@ -74,26 +71,14 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12505
 2019-06-18T09:55:00.403-04:00	:CVE-2019-12505 (Score:8.3)['cpe:/o:inateck:wp1001_firmware:1.3c']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12506
-2019-06-11T16:29:01.403-04:00	:CVE-2019-12506 (Score:8.3)['cpe:/o:logitech:r700_laser_presentation_remote_firmware:wd802xm', 'cpe:/o:logitech:r700_laser_presentation_remote_firmware:wd904xm']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12549
+2019-06-19T13:51:51.447-04:00	:CVE-2019-12549 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12550
+2019-06-19T13:11:41.797-04:00	:CVE-2019-12550 (Score:10.0)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12840
 2019-06-18T08:15:10.097-04:00	:CVE-2019-12840 (Score:9.0)['cpe:/a:webmin:webmin:1.910']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2093
-2019-06-11T11:13:50.903-04:00	:CVE-2019-2093 (Score:9.3)['cpe:/o:google:android:9.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2094
-2019-06-11T08:50:07.647-04:00	:CVE-2019-2094 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2097
-2019-06-11T08:31:12.550-04:00	:CVE-2019-2097 (Score:10.0)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2099
-2019-06-11T08:49:11.927-04:00	:CVE-2019-2099 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2102
-2019-06-11T13:38:52.010-04:00	:CVE-2019-2102 (Score:8.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2255
 2019-06-17T14:44:26.323-04:00	:CVE-2019-2255 (Score:10.0)['cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:qcs605_firmware:-', 'cpe:/o:qualcomm:qm215_firmware:-', 'cpe:/o:qualcomm:sd_205_firmware:-', 'cpe:/o:qualcomm:sd_210_firmware:-', 'cpe:/o:qualcomm:sd_212_firmware:-', 'cpe:/o:qualcomm:sd_425_firmware:-', 'cpe:/o:qualcomm:sd_427_firmware:-', 'cpe:/o:qualcomm:sd_429_firmware:-', 'cpe:/o:qualcomm:sd_430_firmware:-', 'cpe:/o:qualcomm:sd_435_firmware:-', 'cpe:/o:qualcomm:sd_439_firmware:-', 'cpe:/o:qualcomm:sd_450_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_632_firmware:-', 'cpe:/o:qualcomm:sd_636_firmware:-', 'cpe:/o:qualcomm:sd_670_firmware:-', 'cpe:/o:qualcomm:sd_675_firmware:-', 'cpe:/o:qualcomm:sd_710_firmware:-', 'cpe:/o:qualcomm:sd_712_firmware:-', 'cpe:/o:qualcomm:sd_730_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-', 'cpe:/o:qualcomm:sd_855_firmware:-', 'cpe:/o:qualcomm:sd_8cx_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:snapdragon_high_med_2016_firmware:-', 'cpe:/o:qualcomm:sxr1130_firmware:-']
@@ -103,6 +88,9 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2259
 2019-06-18T10:15:28.010-04:00	:CVE-2019-2259 (Score:10.0)['cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:qcs605_firmware:-', 'cpe:/o:qualcomm:qm215_firmware:-', 'cpe:/o:qualcomm:sd_205_firmware:-', 'cpe:/o:qualcomm:sd_210_firmware:-', 'cpe:/o:qualcomm:sd_212_firmware:-', 'cpe:/o:qualcomm:sd_425_firmware:-', 'cpe:/o:qualcomm:sd_427_firmware:-', 'cpe:/o:qualcomm:sd_429_firmware:-', 'cpe:/o:qualcomm:sd_430_firmware:-', 'cpe:/o:qualcomm:sd_435_firmware:-', 'cpe:/o:qualcomm:sd_439_firmware:-', 'cpe:/o:qualcomm:sd_450_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_632_firmware:-', 'cpe:/o:qualcomm:sd_636_firmware:-', 'cpe:/o:qualcomm:sd_670_firmware:-', 'cpe:/o:qualcomm:sd_675_firmware:-', 'cpe:/o:qualcomm:sd_710_firmware:-', 'cpe:/o:qualcomm:sd_712_firmware:-', 'cpe:/o:qualcomm:sd_730_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-', 'cpe:/o:qualcomm:sd_855_firmware:-', 'cpe:/o:qualcomm:sd_8cx_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:snapdragon_high_med_2016_firmware:-', 'cpe:/o:qualcomm:sxr1130_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-4364
+2019-06-19T15:25:44.457-04:00	:CVE-2019-4364 (Score:8.5)['cpe:/a:ibm:control_desk:7.6.0', 'cpe:/a:ibm:control_desk:7.6.0.1', 'cpe:/a:ibm:maximo_asset_management:7.6', 'cpe:/a:ibm:maximo_for_aviation:7.6', 'cpe:/a:ibm:maximo_for_aviation:7.6.1', 'cpe:/a:ibm:maximo_for_aviation:7.6.2', 'cpe:/a:ibm:maximo_for_aviation:7.6.2.1', 'cpe:/a:ibm:maximo_for_aviation:7.6.3', 'cpe:/a:ibm:maximo_for_life_sciences:7.6', 'cpe:/a:ibm:maximo_for_nuclear_power:7.6.0', 'cpe:/a:ibm:maximo_for_oil_and_gas:7.6.0', 'cpe:/a:ibm:maximo_for_transportation:7.6.1', 'cpe:/a:ibm:maximo_for_transportation:7.6.2', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.1', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.2', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.3', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.4', 'cpe:/a:ibm:maximo_for_utilities:7.6', 'cpe:/a:ibm:smartcloud_control_desk:-', 'cpe:/a:ibm:tivoli_integration_composer:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7838
 2019-06-13T13:36:42.060-04:00	:CVE-2019-7838 (Score:10.0)['cpe:/a:adobe:coldfusion:11.0:-', 'cpe:/a:adobe:coldfusion:11.0:update_1', 'cpe:/a:adobe:coldfusion:11.0:update_10', 'cpe:/a:adobe:coldfusion:11.0:update_11', 'cpe:/a:adobe:coldfusion:11.0:update_12', 'cpe:/a:adobe:coldfusion:11.0:update_13', 'cpe:/a:adobe:coldfusion:11.0:update_14', 'cpe:/a:adobe:coldfusion:11.0:update_15', 'cpe:/a:adobe:coldfusion:11.0:update_16', 'cpe:/a:adobe:coldfusion:11.0:update_17', 'cpe:/a:adobe:coldfusion:11.0:update_18', 'cpe:/a:adobe:coldfusion:11.0:update_2', 'cpe:/a:adobe:coldfusion:11.0:update_3', 'cpe:/a:adobe:coldfusion:11.0:update_4', 'cpe:/a:adobe:coldfusion:11.0:update_5', 'cpe:/a:adobe:coldfusion:11.0:update_6', 'cpe:/a:adobe:coldfusion:11.0:update_7', 'cpe:/a:adobe:coldfusion:11.0:update_8', 'cpe:/a:adobe:coldfusion:11.0:update_9', 'cpe:/a:adobe:coldfusion:2016:-', 'cpe:/a:adobe:coldfusion:2016:update_1', 'cpe:/a:adobe:coldfusion:2016:update_10', 'cpe:/a:adobe:coldfusion:2016:update_2', 'cpe:/a:adobe:coldfusion:2016:update_3', 'cpe:/a:adobe:coldfusion:2016:update_4', 'cpe:/a:adobe:coldfusion:2016:update_5', 'cpe:/a:adobe:coldfusion:2016:update_6', 'cpe:/a:adobe:coldfusion:2016:update_7', 'cpe:/a:adobe:coldfusion:2016:update_8', 'cpe:/a:adobe:coldfusion:2016:update_9', 'cpe:/a:adobe:coldfusion:2018:-', 'cpe:/a:adobe:coldfusion:2018:update_1', 'cpe:/a:adobe:coldfusion:2018:update_2', 'cpe:/a:adobe:coldfusion:2018:update_3']
