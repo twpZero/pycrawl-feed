@@ -2,11 +2,14 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2009-5157
 2019-06-17T09:26:47.327-04:00	:CVE-2009-5157 (Score:9.0)['cpe:/o:linksys:wag54g2_firmware:1.00.10']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8328
+2019-06-21T09:37:13.800-04:00	:CVE-2017-8328 (Score:9.3)['cpe:/o:securifi:almond%2bfirmware:al-r096', 'cpe:/o:securifi:almond_2015_firmware:al-r096', 'cpe:/o:securifi:almond_firmware:al-r096']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8333
+2019-06-21T10:46:05.347-04:00	:CVE-2017-8333 (Score:9.0)['cpe:/o:securifi:almond%2bfirmware:al-r096', 'cpe:/o:securifi:almond_2015_firmware:al-r096', 'cpe:/o:securifi:almond_firmware:al-r096']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2017-9384
 2019-06-20T12:41:27.943-04:00	:CVE-2017-9384 (Score:9.0)['cpe:/o:getvera:veraedge_firmware:1.7.19', 'cpe:/o:getvera:veralite_firmware:1.7.481']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2017-9386
-2019-06-20T10:11:10.497-04:00	:CVE-2017-9386 (Score:9.0)['cpe:/o:getvera:veraedge_firmware:1.7.19', 'cpe:/o:getvera:veralite_firmware:1.7.481']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2017-9388
 2019-06-20T10:51:06.173-04:00	:CVE-2017-9388 (Score:9.0)['cpe:/o:getvera:veraedge_firmware:1.7.19', 'cpe:/o:getvera:veralite_firmware:1.7.481']
@@ -26,17 +29,17 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15890
 2019-06-20T14:34:24.977-04:00	:CVE-2018-15890 (Score:10.0)['cpe:/a:ethereum:ethereumj:1.8.2']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16117
+2019-06-23T21:55:10.023-04:00	:CVE-2018-16117 (Score:9.0)['cpe:/o:sophos:sfos:17.0.8:mr8']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16618
+2019-06-21T11:24:22.880-04:00	:CVE-2018-16618 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18472
+2019-06-23T21:34:30.793-04:00	:CVE-2018-18472 (Score:10.0)['cpe:/o:westerndigital:my_book_live_firmware']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18852
 2019-06-18T17:02:20.333-04:00	:CVE-2018-18852 (Score:9.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1034
-2019-06-13T10:30:52.177-04:00	:CVE-2019-1034 (Score:9.3)['cpe:/a:microsoft:office:2010:sp2', 'cpe:/a:microsoft:office:2016::~~~mac_os~~', 'cpe:/a:microsoft:office:2019', 'cpe:/a:microsoft:office:2019::~~~mac_os~~', 'cpe:/a:microsoft:office_365_proplus:-', 'cpe:/a:microsoft:office_online_server:-', 'cpe:/a:microsoft:office_web_apps:2010:sp2', 'cpe:/a:microsoft:sharepoint_enterprise_server:2013:sp1', 'cpe:/a:microsoft:sharepoint_enterprise_server:2016', 'cpe:/a:microsoft:sharepoint_server:2010:sp2', 'cpe:/a:microsoft:sharepoint_server:2019', 'cpe:/a:microsoft:word:2010:sp2', 'cpe:/a:microsoft:word:2013:sp1', 'cpe:/a:microsoft:word:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:word:2016']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1035
-2019-06-14T08:29:00.240-04:00	:CVE-2019-1035 (Score:9.3)['cpe:/a:microsoft:office:2016::~~~mac_os_x~~', 'cpe:/a:microsoft:office:2019', 'cpe:/a:microsoft:office:2019::~~~mac_os_x~~', 'cpe:/a:microsoft:office_365_proplus:-', 'cpe:/a:microsoft:office_online_server:-', 'cpe:/a:microsoft:sharepoint_server:2019']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1043
-2019-06-13T14:50:02.173-04:00	:CVE-2019-1043 (Score:8.5)['cpe:/o:microsoft:windows_10:-', 'cpe:/o:microsoft:windows_10:1607', 'cpe:/o:microsoft:windows_10:1703', 'cpe:/o:microsoft:windows_10:1709', 'cpe:/o:microsoft:windows_10:1803', 'cpe:/o:microsoft:windows_10:1809', 'cpe:/o:microsoft:windows_10:1903', 'cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_rt_8.1:-', 'cpe:/o:microsoft:windows_server_2008:-:sp2', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~itanium~', 'cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~~x64~', 'cpe:/o:microsoft:windows_server_2012:-', 'cpe:/o:microsoft:windows_server_2012:r2', 'cpe:/o:microsoft:windows_server_2016:-', 'cpe:/o:microsoft:windows_server_2016:1803', 'cpe:/o:microsoft:windows_server_2016:1903', 'cpe:/o:microsoft:windows_server_2019:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11410
 2019-06-18T16:15:12.517-04:00	:CVE-2019-11410 (Score:9.0)['cpe:/a:fusionpbx:fusionpbx:4.4.3']
@@ -46,6 +49,9 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12165
 2019-06-17T09:16:27.830-04:00	:CVE-2019-12165 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12491
+2019-06-21T12:30:24.180-04:00	:CVE-2019-12491 (Score:8.5)['cpe:/a:onapp:onapp:5.0.0:-', 'cpe:/a:onapp:onapp:5.0.0:update_79', 'cpe:/a:onapp:onapp:5.0.0:update_82', 'cpe:/a:onapp:onapp:5.0.0:update_83', 'cpe:/a:onapp:onapp:5.0.0:update_87', 'cpe:/a:onapp:onapp:5.1.0:-', 'cpe:/a:onapp:onapp:5.1.0:update_16', 'cpe:/a:onapp:onapp:5.2.0:-', 'cpe:/a:onapp:onapp:5.3.0:-', 'cpe:/a:onapp:onapp:5.3.0:update_41', 'cpe:/a:onapp:onapp:5.4.0:-', 'cpe:/a:onapp:onapp:5.4.0:update_66', 'cpe:/a:onapp:onapp:5.4.0:update_70', 'cpe:/a:onapp:onapp:5.4.0:update_72', 'cpe:/a:onapp:onapp:5.4.0:update_76', 'cpe:/a:onapp:onapp:5.4.0:update_82', 'cpe:/a:onapp:onapp:5.4.0:update_84', 'cpe:/a:onapp:onapp:5.5.0:-', 'cpe:/a:onapp:onapp:5.5.0:update_50', 'cpe:/a:onapp:onapp:5.5.0:update_59', 'cpe:/a:onapp:onapp:5.5.0:update_65', 'cpe:/a:onapp:onapp:5.5.0:update_75', 'cpe:/a:onapp:onapp:5.5.0:update_80', 'cpe:/a:onapp:onapp:5.5.0:update_83', 'cpe:/a:onapp:onapp:5.5.0:update_87', 'cpe:/a:onapp:onapp:5.5.0:update_90', 'cpe:/a:onapp:onapp:5.5.0:update_92', 'cpe:/a:onapp:onapp:5.6.0:-', 'cpe:/a:onapp:onapp:5.6.0:update_83', 'cpe:/a:onapp:onapp:5.7.0:-', 'cpe:/a:onapp:onapp:5.8.0:-', 'cpe:/a:onapp:onapp:5.9.0:-', 'cpe:/a:onapp:onapp:5.10.0:-', 'cpe:/a:onapp:onapp:6.0:update_122', 'cpe:/a:onapp:onapp:6.0:update_152', 'cpe:/a:onapp:onapp:6.0:update_159', 'cpe:/a:onapp:onapp:6.0:update_62', 'cpe:/a:onapp:onapp:6.0:update_80', 'cpe:/a:onapp:onapp:6.0:update_98', 'cpe:/a:onapp:onapp:6.0.0:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12504
 2019-06-17T15:17:27.393-04:00	:CVE-2019-12504 (Score:8.3)['cpe:/o:inateck:wp2002_firmware:-']
@@ -112,12 +118,3 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6971
 2019-06-20T10:18:15.143-04:00	:CVE-2019-6971 (Score:10.0)['cpe:/o:tp-link:tl-wr1043nd_firmware:2.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7838
-2019-06-13T13:36:42.060-04:00	:CVE-2019-7838 (Score:10.0)['cpe:/a:adobe:coldfusion:11.0:-', 'cpe:/a:adobe:coldfusion:11.0:update_1', 'cpe:/a:adobe:coldfusion:11.0:update_10', 'cpe:/a:adobe:coldfusion:11.0:update_11', 'cpe:/a:adobe:coldfusion:11.0:update_12', 'cpe:/a:adobe:coldfusion:11.0:update_13', 'cpe:/a:adobe:coldfusion:11.0:update_14', 'cpe:/a:adobe:coldfusion:11.0:update_15', 'cpe:/a:adobe:coldfusion:11.0:update_16', 'cpe:/a:adobe:coldfusion:11.0:update_17', 'cpe:/a:adobe:coldfusion:11.0:update_18', 'cpe:/a:adobe:coldfusion:11.0:update_2', 'cpe:/a:adobe:coldfusion:11.0:update_3', 'cpe:/a:adobe:coldfusion:11.0:update_4', 'cpe:/a:adobe:coldfusion:11.0:update_5', 'cpe:/a:adobe:coldfusion:11.0:update_6', 'cpe:/a:adobe:coldfusion:11.0:update_7', 'cpe:/a:adobe:coldfusion:11.0:update_8', 'cpe:/a:adobe:coldfusion:11.0:update_9', 'cpe:/a:adobe:coldfusion:2016:-', 'cpe:/a:adobe:coldfusion:2016:update_1', 'cpe:/a:adobe:coldfusion:2016:update_10', 'cpe:/a:adobe:coldfusion:2016:update_2', 'cpe:/a:adobe:coldfusion:2016:update_3', 'cpe:/a:adobe:coldfusion:2016:update_4', 'cpe:/a:adobe:coldfusion:2016:update_5', 'cpe:/a:adobe:coldfusion:2016:update_6', 'cpe:/a:adobe:coldfusion:2016:update_7', 'cpe:/a:adobe:coldfusion:2016:update_8', 'cpe:/a:adobe:coldfusion:2016:update_9', 'cpe:/a:adobe:coldfusion:2018:-', 'cpe:/a:adobe:coldfusion:2018:update_1', 'cpe:/a:adobe:coldfusion:2018:update_2', 'cpe:/a:adobe:coldfusion:2018:update_3']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7839
-2019-06-14T09:15:42.817-04:00	:CVE-2019-7839 (Score:10.0)['cpe:/a:adobe:coldfusion:11.0:-', 'cpe:/a:adobe:coldfusion:11.0:update_1', 'cpe:/a:adobe:coldfusion:11.0:update_10', 'cpe:/a:adobe:coldfusion:11.0:update_11', 'cpe:/a:adobe:coldfusion:11.0:update_12', 'cpe:/a:adobe:coldfusion:11.0:update_13', 'cpe:/a:adobe:coldfusion:11.0:update_14', 'cpe:/a:adobe:coldfusion:11.0:update_15', 'cpe:/a:adobe:coldfusion:11.0:update_16', 'cpe:/a:adobe:coldfusion:11.0:update_17', 'cpe:/a:adobe:coldfusion:11.0:update_18', 'cpe:/a:adobe:coldfusion:11.0:update_2', 'cpe:/a:adobe:coldfusion:11.0:update_3', 'cpe:/a:adobe:coldfusion:11.0:update_4', 'cpe:/a:adobe:coldfusion:11.0:update_5', 'cpe:/a:adobe:coldfusion:11.0:update_6', 'cpe:/a:adobe:coldfusion:11.0:update_7', 'cpe:/a:adobe:coldfusion:11.0:update_8', 'cpe:/a:adobe:coldfusion:11.0:update_9', 'cpe:/a:adobe:coldfusion:2016:-', 'cpe:/a:adobe:coldfusion:2016:update_1', 'cpe:/a:adobe:coldfusion:2016:update_10', 'cpe:/a:adobe:coldfusion:2016:update_2', 'cpe:/a:adobe:coldfusion:2016:update_3', 'cpe:/a:adobe:coldfusion:2016:update_4', 'cpe:/a:adobe:coldfusion:2016:update_5', 'cpe:/a:adobe:coldfusion:2016:update_6', 'cpe:/a:adobe:coldfusion:2016:update_7', 'cpe:/a:adobe:coldfusion:2016:update_8', 'cpe:/a:adobe:coldfusion:2016:update_9', 'cpe:/a:adobe:coldfusion:2018:-', 'cpe:/a:adobe:coldfusion:2018:update_1', 'cpe:/a:adobe:coldfusion:2018:update_2', 'cpe:/a:adobe:coldfusion:2018:update_3']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7840
-2019-06-14T09:19:17.200-04:00	:CVE-2019-7840 (Score:10.0)['cpe:/a:adobe:coldfusion:11.0:-', 'cpe:/a:adobe:coldfusion:11.0:update_1', 'cpe:/a:adobe:coldfusion:11.0:update_10', 'cpe:/a:adobe:coldfusion:11.0:update_11', 'cpe:/a:adobe:coldfusion:11.0:update_12', 'cpe:/a:adobe:coldfusion:11.0:update_13', 'cpe:/a:adobe:coldfusion:11.0:update_14', 'cpe:/a:adobe:coldfusion:11.0:update_15', 'cpe:/a:adobe:coldfusion:11.0:update_16', 'cpe:/a:adobe:coldfusion:11.0:update_17', 'cpe:/a:adobe:coldfusion:11.0:update_18', 'cpe:/a:adobe:coldfusion:11.0:update_2', 'cpe:/a:adobe:coldfusion:11.0:update_3', 'cpe:/a:adobe:coldfusion:11.0:update_4', 'cpe:/a:adobe:coldfusion:11.0:update_5', 'cpe:/a:adobe:coldfusion:11.0:update_6', 'cpe:/a:adobe:coldfusion:11.0:update_7', 'cpe:/a:adobe:coldfusion:11.0:update_8', 'cpe:/a:adobe:coldfusion:11.0:update_9', 'cpe:/a:adobe:coldfusion:2016:-', 'cpe:/a:adobe:coldfusion:2016:update_1', 'cpe:/a:adobe:coldfusion:2016:update_10', 'cpe:/a:adobe:coldfusion:2016:update_2', 'cpe:/a:adobe:coldfusion:2016:update_3', 'cpe:/a:adobe:coldfusion:2016:update_4', 'cpe:/a:adobe:coldfusion:2016:update_5', 'cpe:/a:adobe:coldfusion:2016:update_6', 'cpe:/a:adobe:coldfusion:2016:update_7', 'cpe:/a:adobe:coldfusion:2016:update_8', 'cpe:/a:adobe:coldfusion:2016:update_9', 'cpe:/a:adobe:coldfusion:2018:-', 'cpe:/a:adobe:coldfusion:2018:update_1', 'cpe:/a:adobe:coldfusion:2018:update_2', 'cpe:/a:adobe:coldfusion:2018:update_3']
