@@ -30,10 +30,19 @@
 2019-06-20T14:34:24.977-04:00	:CVE-2018-15890 (Score:10.0)['cpe:/a:ethereum:ethereumj:1.8.2']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16117
-2019-06-23T21:55:10.023-04:00	:CVE-2018-16117 (Score:9.0)['cpe:/o:sophos:sfos:17.0.8:mr8']
+2019-06-24T15:05:40.457-04:00	:CVE-2018-16117 (Score:9.0)['cpe:/o:sophos:sfos:17.0', 'cpe:/o:sophos:sfos:17.0.8:mr8', 'cpe:/o:sophos:sfos:17.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16119
+2019-06-24T09:52:48.127-04:00	:CVE-2018-16119 (Score:9.0)['cpe:/o:tp-link:tl-wr1043nd_firmware:3.00']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16593
+2019-06-24T13:28:42.970-04:00	:CVE-2018-16593 (Score:8.3)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16618
 2019-06-21T11:24:22.880-04:00	:CVE-2018-16618 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18471
+2019-06-24T08:02:54.783-04:00	:CVE-2018-18471 (Score:10.0)['cpe:/o:axentra:hipserv:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18472
 2019-06-23T21:34:30.793-04:00	:CVE-2018-18472 (Score:10.0)['cpe:/o:westerndigital:my_book_live_firmware']
@@ -67,6 +76,15 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12840
 2019-06-18T08:15:10.097-04:00	:CVE-2019-12840 (Score:9.0)['cpe:/a:webmin:webmin:1.910']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12928
+2019-06-24T10:03:28.833-04:00	:CVE-2019-12928 (Score:10.0)['cpe:/a:qemu:qemu:4.0.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12929
+2019-06-24T10:04:46.807-04:00	:CVE-2019-12929 (Score:10.0)['cpe:/a:qemu:qemu:4.0.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1624
+2019-06-24T16:03:47.413-04:00	:CVE-2019-1624 (Score:9.0)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1989
 2019-06-20T23:01:18.413-04:00	:CVE-2019-1989 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
