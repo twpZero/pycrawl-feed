@@ -20,9 +20,6 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2017-9392
 2019-06-20T09:29:45.970-04:00	:CVE-2017-9392 (Score:9.0)['cpe:/o:getvera:veraedge_firmware:1.7.19', 'cpe:/o:getvera:veralite_firmware:1.7.481']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2018-13911
-2019-06-18T10:20:07.793-04:00	:CVE-2018-13911 (Score:10.0)['cpe:/o:qualcomm:mdm9150_firmware:-', 'cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9615_firmware:-', 'cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:mdm9640_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:mdm9655_firmware:-', 'cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:qcs605_firmware:-', 'cpe:/o:qualcomm:qm215_firmware:-', 'cpe:/o:qualcomm:sd_205_firmware:-', 'cpe:/o:qualcomm:sd_210_firmware:-', 'cpe:/o:qualcomm:sd_212_firmware:-', 'cpe:/o:qualcomm:sd_425_firmware:-', 'cpe:/o:qualcomm:sd_427_firmware:-', 'cpe:/o:qualcomm:sd_429_firmware:-', 'cpe:/o:qualcomm:sd_430_firmware:-', 'cpe:/o:qualcomm:sd_435_firmware:-', 'cpe:/o:qualcomm:sd_439_firmware:-', 'cpe:/o:qualcomm:sd_450_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_632_firmware:-', 'cpe:/o:qualcomm:sd_636_firmware:-', 'cpe:/o:qualcomm:sd_650_firmware:-', 'cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_670_firmware:-', 'cpe:/o:qualcomm:sd_675_firmware:-', 'cpe:/o:qualcomm:sd_710_firmware:-', 'cpe:/o:qualcomm:sd_712_firmware:-', 'cpe:/o:qualcomm:sd_730_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-', 'cpe:/o:qualcomm:sd_855_firmware:-', 'cpe:/o:qualcomm:sd_8cx_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:sdx20_firmware:-', 'cpe:/o:qualcomm:snapdragon_high_med_2016_firmware:-', 'cpe:/o:qualcomm:sxr1130_firmware:-']
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15890
 2019-06-20T14:34:24.977-04:00	:CVE-2018-15890 (Score:10.0)['cpe:/a:ethereum:ethereumj:1.8.2']
 
@@ -47,17 +44,8 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18472
 2019-06-23T21:34:30.793-04:00	:CVE-2018-18472 (Score:10.0)['cpe:/o:westerndigital:my_book_live_firmware']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18852
-2019-06-18T17:02:20.333-04:00	:CVE-2018-18852 (Score:9.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11410
-2019-06-18T16:15:12.517-04:00	:CVE-2019-11410 (Score:9.0)['cpe:/a:fusionpbx:fusionpbx:4.4.3']
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12491
 2019-06-21T12:30:24.180-04:00	:CVE-2019-12491 (Score:8.5)['cpe:/a:onapp:onapp:5.0.0:-', 'cpe:/a:onapp:onapp:5.0.0:update_79', 'cpe:/a:onapp:onapp:5.0.0:update_82', 'cpe:/a:onapp:onapp:5.0.0:update_83', 'cpe:/a:onapp:onapp:5.0.0:update_87', 'cpe:/a:onapp:onapp:5.1.0:-', 'cpe:/a:onapp:onapp:5.1.0:update_16', 'cpe:/a:onapp:onapp:5.2.0:-', 'cpe:/a:onapp:onapp:5.3.0:-', 'cpe:/a:onapp:onapp:5.3.0:update_41', 'cpe:/a:onapp:onapp:5.4.0:-', 'cpe:/a:onapp:onapp:5.4.0:update_66', 'cpe:/a:onapp:onapp:5.4.0:update_70', 'cpe:/a:onapp:onapp:5.4.0:update_72', 'cpe:/a:onapp:onapp:5.4.0:update_76', 'cpe:/a:onapp:onapp:5.4.0:update_82', 'cpe:/a:onapp:onapp:5.4.0:update_84', 'cpe:/a:onapp:onapp:5.5.0:-', 'cpe:/a:onapp:onapp:5.5.0:update_50', 'cpe:/a:onapp:onapp:5.5.0:update_59', 'cpe:/a:onapp:onapp:5.5.0:update_65', 'cpe:/a:onapp:onapp:5.5.0:update_75', 'cpe:/a:onapp:onapp:5.5.0:update_80', 'cpe:/a:onapp:onapp:5.5.0:update_83', 'cpe:/a:onapp:onapp:5.5.0:update_87', 'cpe:/a:onapp:onapp:5.5.0:update_90', 'cpe:/a:onapp:onapp:5.5.0:update_92', 'cpe:/a:onapp:onapp:5.6.0:-', 'cpe:/a:onapp:onapp:5.6.0:update_83', 'cpe:/a:onapp:onapp:5.7.0:-', 'cpe:/a:onapp:onapp:5.8.0:-', 'cpe:/a:onapp:onapp:5.9.0:-', 'cpe:/a:onapp:onapp:5.10.0:-', 'cpe:/a:onapp:onapp:6.0:update_122', 'cpe:/a:onapp:onapp:6.0:update_152', 'cpe:/a:onapp:onapp:6.0:update_159', 'cpe:/a:onapp:onapp:6.0:update_62', 'cpe:/a:onapp:onapp:6.0:update_80', 'cpe:/a:onapp:onapp:6.0:update_98', 'cpe:/a:onapp:onapp:6.0.0:-']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12505
-2019-06-18T09:55:00.403-04:00	:CVE-2019-12505 (Score:8.3)['cpe:/o:inateck:wp1001_firmware:1.3c']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12549
 2019-06-19T13:51:51.447-04:00	:CVE-2019-12549 (Score:10.0)
@@ -109,9 +97,6 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2018
 2019-06-20T15:23:19.817-04:00	:CVE-2019-2018 (Score:9.3)['cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2259
-2019-06-18T10:15:28.010-04:00	:CVE-2019-2259 (Score:10.0)['cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:qcs605_firmware:-', 'cpe:/o:qualcomm:qm215_firmware:-', 'cpe:/o:qualcomm:sd_205_firmware:-', 'cpe:/o:qualcomm:sd_210_firmware:-', 'cpe:/o:qualcomm:sd_212_firmware:-', 'cpe:/o:qualcomm:sd_425_firmware:-', 'cpe:/o:qualcomm:sd_427_firmware:-', 'cpe:/o:qualcomm:sd_429_firmware:-', 'cpe:/o:qualcomm:sd_430_firmware:-', 'cpe:/o:qualcomm:sd_435_firmware:-', 'cpe:/o:qualcomm:sd_439_firmware:-', 'cpe:/o:qualcomm:sd_450_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_632_firmware:-', 'cpe:/o:qualcomm:sd_636_firmware:-', 'cpe:/o:qualcomm:sd_670_firmware:-', 'cpe:/o:qualcomm:sd_675_firmware:-', 'cpe:/o:qualcomm:sd_710_firmware:-', 'cpe:/o:qualcomm:sd_712_firmware:-', 'cpe:/o:qualcomm:sd_730_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-', 'cpe:/o:qualcomm:sd_855_firmware:-', 'cpe:/o:qualcomm:sd_8cx_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:snapdragon_high_med_2016_firmware:-', 'cpe:/o:qualcomm:sxr1130_firmware:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-4364
 2019-06-19T15:25:44.457-04:00	:CVE-2019-4364 (Score:8.5)['cpe:/a:ibm:control_desk:7.6.0', 'cpe:/a:ibm:control_desk:7.6.0.1', 'cpe:/a:ibm:maximo_asset_management:7.6', 'cpe:/a:ibm:maximo_for_aviation:7.6', 'cpe:/a:ibm:maximo_for_aviation:7.6.1', 'cpe:/a:ibm:maximo_for_aviation:7.6.2', 'cpe:/a:ibm:maximo_for_aviation:7.6.2.1', 'cpe:/a:ibm:maximo_for_aviation:7.6.3', 'cpe:/a:ibm:maximo_for_life_sciences:7.6', 'cpe:/a:ibm:maximo_for_nuclear_power:7.6.0', 'cpe:/a:ibm:maximo_for_oil_and_gas:7.6.0', 'cpe:/a:ibm:maximo_for_transportation:7.6.1', 'cpe:/a:ibm:maximo_for_transportation:7.6.2', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.1', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.2', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.3', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.4', 'cpe:/a:ibm:maximo_for_utilities:7.6', 'cpe:/a:ibm:smartcloud_control_desk:-', 'cpe:/a:ibm:tivoli_integration_composer:-']
