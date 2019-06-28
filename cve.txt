@@ -44,14 +44,14 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18472
 2019-06-23T21:34:30.793-04:00	:CVE-2018-18472 (Score:10.0)['cpe:/o:westerndigital:my_book_live_firmware']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-10164
+2019-06-27T10:42:08.133-04:00	:CVE-2019-10164 (Score:9.0)['cpe:/a:postgresql:postgresql:10.0', 'cpe:/a:postgresql:postgresql:10.1', 'cpe:/a:postgresql:postgresql:10.2', 'cpe:/a:postgresql:postgresql:10.3', 'cpe:/a:postgresql:postgresql:10.4', 'cpe:/a:postgresql:postgresql:10.5', 'cpe:/a:postgresql:postgresql:10.6', 'cpe:/a:postgresql:postgresql:10.7', 'cpe:/a:postgresql:postgresql:10.8', 'cpe:/a:postgresql:postgresql:11.0', 'cpe:/a:postgresql:postgresql:11.1', 'cpe:/a:postgresql:postgresql:11.2', 'cpe:/a:postgresql:postgresql:11.3', 'cpe:/o:redhat:enterprise_linux:8.0']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12491
 2019-06-21T12:30:24.180-04:00	:CVE-2019-12491 (Score:8.5)['cpe:/a:onapp:onapp:5.0.0:-', 'cpe:/a:onapp:onapp:5.0.0:update_79', 'cpe:/a:onapp:onapp:5.0.0:update_82', 'cpe:/a:onapp:onapp:5.0.0:update_83', 'cpe:/a:onapp:onapp:5.0.0:update_87', 'cpe:/a:onapp:onapp:5.1.0:-', 'cpe:/a:onapp:onapp:5.1.0:update_16', 'cpe:/a:onapp:onapp:5.2.0:-', 'cpe:/a:onapp:onapp:5.3.0:-', 'cpe:/a:onapp:onapp:5.3.0:update_41', 'cpe:/a:onapp:onapp:5.4.0:-', 'cpe:/a:onapp:onapp:5.4.0:update_66', 'cpe:/a:onapp:onapp:5.4.0:update_70', 'cpe:/a:onapp:onapp:5.4.0:update_72', 'cpe:/a:onapp:onapp:5.4.0:update_76', 'cpe:/a:onapp:onapp:5.4.0:update_82', 'cpe:/a:onapp:onapp:5.4.0:update_84', 'cpe:/a:onapp:onapp:5.5.0:-', 'cpe:/a:onapp:onapp:5.5.0:update_50', 'cpe:/a:onapp:onapp:5.5.0:update_59', 'cpe:/a:onapp:onapp:5.5.0:update_65', 'cpe:/a:onapp:onapp:5.5.0:update_75', 'cpe:/a:onapp:onapp:5.5.0:update_80', 'cpe:/a:onapp:onapp:5.5.0:update_83', 'cpe:/a:onapp:onapp:5.5.0:update_87', 'cpe:/a:onapp:onapp:5.5.0:update_90', 'cpe:/a:onapp:onapp:5.5.0:update_92', 'cpe:/a:onapp:onapp:5.6.0:-', 'cpe:/a:onapp:onapp:5.6.0:update_83', 'cpe:/a:onapp:onapp:5.7.0:-', 'cpe:/a:onapp:onapp:5.8.0:-', 'cpe:/a:onapp:onapp:5.9.0:-', 'cpe:/a:onapp:onapp:5.10.0:-', 'cpe:/a:onapp:onapp:6.0:update_122', 'cpe:/a:onapp:onapp:6.0:update_152', 'cpe:/a:onapp:onapp:6.0:update_159', 'cpe:/a:onapp:onapp:6.0:update_62', 'cpe:/a:onapp:onapp:6.0:update_80', 'cpe:/a:onapp:onapp:6.0:update_98', 'cpe:/a:onapp:onapp:6.0.0:-']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12549
-2019-06-19T13:51:51.447-04:00	:CVE-2019-12549 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12550
-2019-06-19T13:11:41.797-04:00	:CVE-2019-12550 (Score:10.0)
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12920
+2019-06-27T13:34:00.040-04:00	:CVE-2019-12920 (Score:10.0)['cpe:/o:cylan:clever_dog_smart_camera_panorama_dog-2w_firmware:-', 'cpe:/o:cylan:clever_dog_smart_camera_plus_dog-2w-v4_firmware:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12928
 2019-06-24T10:03:28.833-04:00	:CVE-2019-12928 (Score:10.0)['cpe:/a:qemu:qemu:4.0.0']
@@ -59,8 +59,14 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12929
 2019-06-24T10:04:46.807-04:00	:CVE-2019-12929 (Score:10.0)['cpe:/a:qemu:qemu:4.0.0']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1620
+2019-06-27T14:07:53.310-04:00	:CVE-2019-1620 (Score:10.0)['cpe:/a:cisco:data_center_network_manager:11.0%281%29']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1624
 2019-06-24T16:03:47.413-04:00	:CVE-2019-1624 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1878
+2019-06-27T23:07:00.017-04:00	:CVE-2019-1878 (Score:8.3)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1989
 2019-06-20T23:01:18.413-04:00	:CVE-2019-1989 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
@@ -97,9 +103,6 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2018
 2019-06-20T15:23:19.817-04:00	:CVE-2019-2018 (Score:9.3)['cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-4364
-2019-06-19T15:25:44.457-04:00	:CVE-2019-4364 (Score:8.5)['cpe:/a:ibm:control_desk:7.6.0', 'cpe:/a:ibm:control_desk:7.6.0.1', 'cpe:/a:ibm:maximo_asset_management:7.6', 'cpe:/a:ibm:maximo_for_aviation:7.6', 'cpe:/a:ibm:maximo_for_aviation:7.6.1', 'cpe:/a:ibm:maximo_for_aviation:7.6.2', 'cpe:/a:ibm:maximo_for_aviation:7.6.2.1', 'cpe:/a:ibm:maximo_for_aviation:7.6.3', 'cpe:/a:ibm:maximo_for_life_sciences:7.6', 'cpe:/a:ibm:maximo_for_nuclear_power:7.6.0', 'cpe:/a:ibm:maximo_for_oil_and_gas:7.6.0', 'cpe:/a:ibm:maximo_for_transportation:7.6.1', 'cpe:/a:ibm:maximo_for_transportation:7.6.2', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.1', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.2', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.3', 'cpe:/a:ibm:maximo_for_transportation:7.6.2.4', 'cpe:/a:ibm:maximo_for_utilities:7.6', 'cpe:/a:ibm:smartcloud_control_desk:-', 'cpe:/a:ibm:tivoli_integration_composer:-']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6971
 2019-06-20T10:18:15.143-04:00	:CVE-2019-6971 (Score:10.0)['cpe:/o:tp-link:tl-wr1043nd_firmware:2.0']
