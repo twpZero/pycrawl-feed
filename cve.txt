@@ -1,0 +1,30 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15556
+2019-07-02T12:27:16.763-04:00	:CVE-2018-15556 (Score:10.0)['cpe:/o:actiontec:web6000q_firmware:1.1.02.22']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15557
+2019-07-02T12:23:44.223-04:00	:CVE-2018-15557 (Score:10.0)['cpe:/o:actiontec:web6000q_firmware:1.1.02.22']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16118
+2019-06-25T09:49:45.820-04:00	:CVE-2018-16118 (Score:9.3)['cpe:/o:sophos:sfos:16.0', 'cpe:/o:sophos:sfos:16.5', 'cpe:/o:sophos:sfos:17.0', 'cpe:/o:sophos:sfos:17.0.8:mr8', 'cpe:/o:sophos:sfos:17.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-10164
+2019-06-27T10:42:08.133-04:00	:CVE-2019-10164 (Score:9.0)['cpe:/a:postgresql:postgresql:10.0', 'cpe:/a:postgresql:postgresql:10.1', 'cpe:/a:postgresql:postgresql:10.2', 'cpe:/a:postgresql:postgresql:10.3', 'cpe:/a:postgresql:postgresql:10.4', 'cpe:/a:postgresql:postgresql:10.5', 'cpe:/a:postgresql:postgresql:10.6', 'cpe:/a:postgresql:postgresql:10.7', 'cpe:/a:postgresql:postgresql:10.8', 'cpe:/a:postgresql:postgresql:11.0', 'cpe:/a:postgresql:postgresql:11.1', 'cpe:/a:postgresql:postgresql:11.2', 'cpe:/a:postgresql:postgresql:11.3', 'cpe:/o:redhat:enterprise_linux:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12920
+2019-06-27T13:34:00.040-04:00	:CVE-2019-12920 (Score:10.0)['cpe:/o:cylan:clever_dog_smart_camera_panorama_dog-2w_firmware:-', 'cpe:/o:cylan:clever_dog_smart_camera_plus_dog-2w-v4_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1620
+2019-06-27T14:07:53.310-04:00	:CVE-2019-1620 (Score:10.0)['cpe:/a:cisco:data_center_network_manager:11.0%281%29']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1878
+2019-06-27T23:07:00.017-04:00	:CVE-2019-1878 (Score:8.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6962
+2019-06-28T09:57:55.743-04:00	:CVE-2019-6962 (Score:8.5)['cpe:/a:rdkcentral:rdkb_ccsppandm:rdkb-20181217-1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7274
+2019-07-02T11:17:20.750-04:00	:CVE-2019-7274 (Score:10.0)['cpe:/a:optergy:enterprise:2.3.0a', 'cpe:/a:optergy:proton:2.3.0a']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7276
+2019-07-02T12:36:05.477-04:00	:CVE-2019-7276 (Score:10.0)['cpe:/a:optergy:enterprise:2.3.0a', 'cpe:/a:optergy:proton:2.3.0a']
