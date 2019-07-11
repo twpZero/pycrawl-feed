@@ -11,17 +11,23 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8411
 2019-07-09T14:12:18.320-04:00	:CVE-2017-8411 (Score:9.3)['cpe:/o:dlink:dcs-1130_firmware:-']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8413
+2019-07-10T13:05:50.107-04:00	:CVE-2017-8413 (Score:8.3)['cpe:/o:dlink:dcs-1100_firmware:-', 'cpe:/o:dlink:dcs-1130_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8415
+2019-07-10T13:07:29.297-04:00	:CVE-2017-8415 (Score:10.0)['cpe:/o:dlink:dcs-1100_firmware:-', 'cpe:/o:dlink:dcs-1130_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8416
+2019-07-10T13:08:40.333-04:00	:CVE-2017-8416 (Score:8.3)['cpe:/o:dlink:dcs-1100_firmware:-', 'cpe:/o:dlink:dcs-1130_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14860
+2019-07-10T14:29:10.247-04:00	:CVE-2018-14860 (Score:9.0)['cpe:/a:odoo:odoo:11.0::~~community~~~', 'cpe:/a:odoo:odoo:11.0::~~enterprise~~~']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14916
 2019-07-03T11:09:07.957-04:00	:CVE-2018-14916 (Score:9.4)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15555
 2019-07-05T14:41:30.613-04:00	:CVE-2018-15555 (Score:10.0)['cpe:/o:actiontec:web6000q_firmware:1.1.02.22']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15556
-2019-07-02T12:27:16.763-04:00	:CVE-2018-15556 (Score:10.0)['cpe:/o:actiontec:web6000q_firmware:1.1.02.22']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15557
-2019-07-02T12:23:44.223-04:00	:CVE-2018-15557 (Score:10.0)['cpe:/o:actiontec:web6000q_firmware:1.1.02.22']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12997
 2019-07-03T12:18:32.500-04:00	:CVE-2019-12997 (Score:9.0)['cpe:/a:icon:loopchain:2.2.1.3']
@@ -31,6 +37,9 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13128
 2019-07-08T10:17:26.310-04:00	:CVE-2019-13128 (Score:9.0)['cpe:/o:dlink:dir-823g_firmware:1.02b03']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13294
+2019-07-10T12:08:06.373-04:00	:CVE-2019-13294 (Score:10.0)['cpe:/a:arox:school-erp:-::~~pro~~~']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13398
 2019-07-09T16:07:45.190-04:00	:CVE-2019-13398 (Score:9.0)['cpe:/o:fortinet:fcm-mb40_firmware:1.2.0.0']
@@ -70,12 +79,6 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7269
 2019-07-05T15:51:01.080-04:00	:CVE-2019-7269 (Score:10.0)['cpe:/o:nortekcontrol:linear_emerge_5000p_firmware:4.6.07', 'cpe:/o:nortekcontrol:linear_emerge_50p_firmware:4.6.07']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7274
-2019-07-02T11:17:20.750-04:00	:CVE-2019-7274 (Score:10.0)['cpe:/a:optergy:enterprise:2.3.0a', 'cpe:/a:optergy:proton:2.3.0a']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7276
-2019-07-02T12:36:05.477-04:00	:CVE-2019-7276 (Score:10.0)['cpe:/a:optergy:enterprise:2.3.0a', 'cpe:/a:optergy:proton:2.3.0a']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7669
 2019-07-03T08:55:49.023-04:00	:CVE-2019-7669 (Score:10.0)['cpe:/a:primasystems:flexair:2.3.38']
