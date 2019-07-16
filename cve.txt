@@ -1,4 +1,7 @@
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-6900
+2019-07-15T14:25:11.377-04:00	:CVE-2017-6900 (Score:10.0)['cpe:/o:riello-ups:netman_204_firmware:14-2', 'cpe:/o:riello-ups:netman_204_firmware:15-2']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8404
 2019-07-08T15:46:10.397-04:00	:CVE-2017-8404 (Score:10.0)['cpe:/o:dlink:dcs-1130_firmware:-']
 
@@ -26,8 +29,17 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14495
 2019-07-11T17:17:44.460-04:00	:CVE-2018-14495 (Score:10.0)['cpe:/o:vivotek:fd8136_firmware:0301a']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14528
+2019-07-15T09:50:02.733-04:00	:CVE-2018-14528 (Score:10.0)['cpe:/o:invoxia:nvx220_firmware:-']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14860
 2019-07-10T14:29:10.247-04:00	:CVE-2018-14860 (Score:9.0)['cpe:/a:odoo:odoo:11.0::~~community~~~', 'cpe:/a:odoo:odoo:11.0::~~enterprise~~~']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11062
+2019-07-15T14:05:04.557-04:00	:CVE-2019-11062 (Score:10.0)['cpe:/a:sun.net:wmpro:5.0', 'cpe:/a:sun.net:wmpro:5.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12971
+2019-07-15T12:27:01.057-04:00	:CVE-2019-12971 (Score:10.0)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13024
 2019-07-08T10:13:46.970-04:00	:CVE-2019-13024 (Score:9.0)['cpe:/a:centreon:centreon:19.04.0']
@@ -38,8 +50,17 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13294
 2019-07-10T12:08:06.373-04:00	:CVE-2019-13294 (Score:10.0)['cpe:/a:arox:school-erp:-::~~pro~~~']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13352
+2019-07-15T12:03:15.177-04:00	:CVE-2019-13352 (Score:10.0)['cpe:/a:wolfvision:cynap:1.06', 'cpe:/a:wolfvision:cynap:1.08g', 'cpe:/a:wolfvision:cynap:1.10i', 'cpe:/a:wolfvision:cynap:1.14', 'cpe:/a:wolfvision:cynap:1.15e', 'cpe:/a:wolfvision:cynap:1.16g', 'cpe:/a:wolfvision:cynap:1.18', 'cpe:/a:wolfvision:cynap:1.18g', 'cpe:/a:wolfvision:cynap:1.19d', 'cpe:/a:wolfvision:cynap:1.20', 'cpe:/a:wolfvision:cynap:1.20i', 'cpe:/a:wolfvision:cynap:1.21', 'cpe:/a:wolfvision:cynap:1.22', 'cpe:/a:wolfvision:cynap:1.24', 'cpe:/a:wolfvision:cynap:1.26g', 'cpe:/a:wolfvision:cynap:1.28', 'cpe:/a:wolfvision:cynap:1.28j']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13379
+2019-07-15T13:08:25.700-04:00	:CVE-2019-13379 (Score:9.0)
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13398
 2019-07-09T16:07:45.190-04:00	:CVE-2019-13398 (Score:9.0)['cpe:/o:fortinet:fcm-mb40_firmware:1.2.0.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13404
+2019-07-15T11:20:09.530-04:00	:CVE-2019-13404 (Score:9.3)['cpe:/a:python:python:2.7.16', 'cpe:/a:python:python:3.0.0', 'cpe:/a:python:python:3.0.1', 'cpe:/a:python:python:3.1', 'cpe:/a:python:python:3.1.0', 'cpe:/a:python:python:3.1.1', 'cpe:/a:python:python:3.1.2', 'cpe:/a:python:python:3.1.3', 'cpe:/a:python:python:3.1.4', 'cpe:/a:python:python:3.1.5', 'cpe:/a:python:python:3.1.2150::~~~~x64~', 'cpe:/a:python:python:3.2', 'cpe:/a:python:python:3.2:alpha', 'cpe:/a:python:python:3.2.0', 'cpe:/a:python:python:3.2.1', 'cpe:/a:python:python:3.2.2', 'cpe:/a:python:python:3.2.3', 'cpe:/a:python:python:3.2.4', 'cpe:/a:python:python:3.2.5', 'cpe:/a:python:python:3.2.6', 'cpe:/a:python:python:3.2.2150', 'cpe:/a:python:python:3.3', 'cpe:/a:python:python:3.3:beta2', 'cpe:/a:python:python:3.3.0', 'cpe:/a:python:python:3.3.1', 'cpe:/a:python:python:3.3.1:rc1', 'cpe:/a:python:python:3.3.2', 'cpe:/a:python:python:3.3.3', 'cpe:/a:python:python:3.3.3:rc1', 'cpe:/a:python:python:3.3.3:rc2', 'cpe:/a:python:python:3.3.4', 'cpe:/a:python:python:3.3.4:rc1', 'cpe:/a:python:python:3.3.5', 'cpe:/a:python:python:3.3.5:-', 'cpe:/a:python:python:3.3.5:rc1', 'cpe:/a:python:python:3.3.5:rc2', 'cpe:/a:python:python:3.3.6', 'cpe:/a:python:python:3.3.6:rc1', 'cpe:/a:python:python:3.3.7', 'cpe:/a:python:python:3.4:alpha1', 'cpe:/a:python:python:3.4.0', 'cpe:/a:python:python:3.4.1', 'cpe:/a:python:python:3.4.2', 'cpe:/a:python:python:3.4.3', 'cpe:/a:python:python:3.4.4', 'cpe:/a:python:python:3.4.5', 'cpe:/a:python:python:3.4.6', 'cpe:/a:python:python:3.4.7', 'cpe:/a:python:python:3.4.8', 'cpe:/a:python:python:3.4.9', 'cpe:/a:python:python:3.5']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13481
 2019-07-12T11:33:16.263-04:00	:CVE-2019-13481 (Score:9.0)['cpe:/o:dlink:dir-818lw_firmware:2.06:betab01']
@@ -50,20 +71,32 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13561
 2019-07-12T11:08:02.470-04:00	:CVE-2019-13561 (Score:10.0)['cpe:/o:dlink:dir-655_firmware:3.02b05']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13598
+2019-07-15T11:45:49.817-04:00	:CVE-2019-13598 (Score:10.0)['cpe:/o:getvera:vera_edge_firmware:1.7.4452']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1855
 2019-07-12T10:31:37.037-04:00	:CVE-2019-1855 (Score:9.3)['cpe:/a:cisco:jabber:11.9%282%29::~~~windows~~']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1889
+2019-07-15T09:40:36.943-04:00	:CVE-2019-1889 (Score:9.0)['cpe:/a:cisco:application_policy_infrastructure_controller:4.1%281j%29']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1894
+2019-07-15T10:05:16.463-04:00	:CVE-2019-1894 (Score:9.0)['cpe:/a:cisco:enterprise_nfv_infrastructure_software:3.9.1']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2106
 2019-07-09T13:08:22.583-04:00	:CVE-2019-2106 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2107
-2019-07-09T12:34:59.703-04:00	:CVE-2019-2107 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+2019-07-15T13:15:14.593-04:00	:CVE-2019-2107 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-2109
 2019-07-09T12:42:47.583-04:00	:CVE-2019-2109 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3950
 2019-07-11T12:09:23.483-04:00	:CVE-2019-3950 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5602
+2019-07-15T14:08:53.473-04:00	:CVE-2019-5602 (Score:9.0)['cpe:/o:freebsd:freebsd:11.2:-', 'cpe:/o:freebsd:freebsd:11.2:p10', 'cpe:/o:freebsd:freebsd:11.2:p2', 'cpe:/o:freebsd:freebsd:11.2:p3', 'cpe:/o:freebsd:freebsd:11.2:p4', 'cpe:/o:freebsd:freebsd:11.2:p5', 'cpe:/o:freebsd:freebsd:11.2:p6', 'cpe:/o:freebsd:freebsd:11.2:p7', 'cpe:/o:freebsd:freebsd:11.2:p9', 'cpe:/o:freebsd:freebsd:11.2:rc3', 'cpe:/o:freebsd:freebsd:11.3:rc3', 'cpe:/o:freebsd:freebsd:12.0:-', 'cpe:/o:freebsd:freebsd:12.0:p1', 'cpe:/o:freebsd:freebsd:12.0:p2', 'cpe:/o:freebsd:freebsd:12.0:p3', 'cpe:/o:freebsd:freebsd:12.0:p4', 'cpe:/o:freebsd:freebsd:12.0:p5', 'cpe:/o:freebsd:freebsd:12.0:p6']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6636
 2019-07-11T12:07:49.150-04:00	:CVE-2019-6636 (Score:8.5)['cpe:/a:f5:big-ip_advanced_firewall_manager:12.0.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.2', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.2', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.3', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.4', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.5', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.6', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.3.7', 'cpe:/a:f5:big-ip_advanced_firewall_manager:12.1.4', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.0.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.0.0:hf1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.0.0:hf2', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.0.0:hf3', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.0.1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.2', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.3', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.4', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.5', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.6', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.7', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.0.8', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.1.1', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.1.3', 'cpe:/a:f5:big-ip_advanced_firewall_manager:13.1.1.4', 'cpe:/a:f5:big-ip_advanced_firewall_manager:14.0.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:14.0.0.2', 'cpe:/a:f5:big-ip_advanced_firewall_manager:14.0.0.4', 'cpe:/a:f5:big-ip_advanced_firewall_manager:14.1.0', 'cpe:/a:f5:big-ip_advanced_firewall_manager:14.1.0.1', 'cpe:/a:f5:big-ip_application_security_manager:12.0.0', 'cpe:/a:f5:big-ip_application_security_manager:12.1.0', 'cpe:/a:f5:big-ip_application_security_manager:12.1.1', 'cpe:/a:f5:big-ip_application_security_manager:12.1.2', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.1', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.2', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.3', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.4', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.5', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.6', 'cpe:/a:f5:big-ip_application_security_manager:12.1.3.7', 'cpe:/a:f5:big-ip_application_security_manager:12.1.4', 'cpe:/a:f5:big-ip_application_security_manager:13.0.0', 'cpe:/a:f5:big-ip_application_security_manager:13.0.0:hf1', 'cpe:/a:f5:big-ip_application_security_manager:13.0.0:hf2', 'cpe:/a:f5:big-ip_application_security_manager:13.0.0:hf3', 'cpe:/a:f5:big-ip_application_security_manager:13.0.1', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.0', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.1', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.2', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.3', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.4', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.5', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.6', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.7', 'cpe:/a:f5:big-ip_application_security_manager:13.1.0.8', 'cpe:/a:f5:big-ip_application_security_manager:13.1.1', 'cpe:/a:f5:big-ip_application_security_manager:13.1.1.1', 'cpe:/a:f5:big-ip_application_security_manager:13.1.1.3', 'cpe:/a:f5:big-ip_application_security_manager:13.1.1.4', 'cpe:/a:f5:big-ip_application_security_manager:14.0.0', 'cpe:/a:f5:big-ip_application_security_manager:14.0.0.2', 'cpe:/a:f5:big-ip_application_security_manager:14.0.0.4', 'cpe:/a:f5:big-ip_application_security_manager:14.1.0', 'cpe:/a:f5:big-ip_application_security_manager:14.1.0.1']
