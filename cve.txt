@@ -47,27 +47,6 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12876
 2019-07-19T13:20:08.780-04:00	:CVE-2019-12876 (Score:8.5)['cpe:/a:zohocorp:manageengine_admanager_plus:6.6.5', 'cpe:/a:zohocorp:manageengine_adselfservice_plus:5.7', 'cpe:/a:zohocorp:manageengine_desktop_central:10.0.380']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12985
-2019-07-17T09:17:16.037-04:00	:CVE-2019-12985 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12986
-2019-07-17T09:19:54.357-04:00	:CVE-2019-12986 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12987
-2019-07-17T09:20:07.887-04:00	:CVE-2019-12987 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12988
-2019-07-17T09:22:33.317-04:00	:CVE-2019-12988 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12990
-2019-07-17T09:31:39.980-04:00	:CVE-2019-12990 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12991
-2019-07-17T09:14:44.937-04:00	:CVE-2019-12991 (Score:9.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12992
-2019-07-17T09:11:56.570-04:00	:CVE-2019-12992 (Score:9.0)
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13359
 2019-07-18T10:17:21.523-04:00	:CVE-2019-13359 (Score:8.5)['cpe:/a:centos-webpanel:centos_web_panel:0.9.8.836']
 
@@ -86,11 +65,5 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13625
 2019-07-19T13:33:55.913-04:00	:CVE-2019-13625 (Score:9.4)['cpe:/a:nsa:ghidra:9.0']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5446
-2019-07-17T13:18:50.023-04:00	:CVE-2019-5446 (Score:9.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6823
-2019-07-17T13:08:05.587-04:00	:CVE-2019-6823 (Score:10.0)['cpe:/a:schneider-electric:proclima:6.0.1', 'cpe:/a:schneider-electric:proclima:6.1']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6824
-2019-07-17T13:39:14.517-04:00	:CVE-2019-6824 (Score:10.0)['cpe:/a:schneider-electric:proclima:6.0.1', 'cpe:/a:schneider-electric:proclima:6.1']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-13637
+2019-07-25T10:53:00.897-04:00	:CVE-2019-13637 (Score:9.3)['cpe:/a:logmeininc:join.me:3.4.0.5369::~~~windows~~', 'cpe:/a:logmeininc:join.me:3.8.1.5397::~~~windows~~', 'cpe:/a:logmeininc:join.me:3.9.0.5408::~~~windows~~', 'cpe:/a:logmeininc:join.me:3.10.2.5456::~~~windows~~', 'cpe:/a:logmeininc:join.me:3.11.1.5472::~~~windows~~']
