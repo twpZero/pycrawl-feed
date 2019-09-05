@@ -2,17 +2,20 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14062
 2019-08-28T17:22:37.290-04:00	:CVE-2018-14062 (Score:9.4)['cpe:/a:cospas-sarsat:cospas-sarsat_system:-']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20969
-2019-08-27T09:21:45.677-04:00	:CVE-2018-20969 (Score:9.3)['cpe:/a:gnu:patch:2.7.6']
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11030
 2019-08-30T08:54:56.007-04:00	:CVE-2019-11030 (Score:10.0)['cpe:/a:mirasys:mirasys_vms:7.6.0', 'cpe:/a:mirasys:mirasys_vms:8.0.0', 'cpe:/a:mirasys:mirasys_vms:8.3.1']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11031
 2019-08-30T08:52:48.327-04:00	:CVE-2019-11031 (Score:10.0)['cpe:/a:mirasys:mirasys_vms:7.6.0', 'cpe:/a:mirasys:mirasys_vms:8.0.0', 'cpe:/a:mirasys:mirasys_vms:8.3.1']
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11063
+2019-09-04T13:31:00.520-04:00	:CVE-2019-11063 (Score:8.3)['cpe:/a:asus:smarthome:1.00.00::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.04::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.06::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.07::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.08::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.09::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.10::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.11::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.00.12::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.01.01::~~~iphone_os~~', 'cpe:/a:asus:smarthome:1.3.66::~~~android~~', 'cpe:/a:asus:smarthome:1.3.87::~~~android~~', 'cpe:/a:asus:smarthome:1.3.104::~~~android~~', 'cpe:/a:asus:smarthome:1.4.13::~~~android~~', 'cpe:/a:asus:smarthome:1.4.26::~~~android~~', 'cpe:/a:asus:smarthome:1.4.29::~~~android~~', 'cpe:/a:asus:smarthome:1.4.32::~~~android~~', 'cpe:/a:asus:smarthome:1.4.34::~~~android~~', 'cpe:/a:asus:smarthome:1.4.37::~~~android~~', 'cpe:/a:asus:smarthome:1.05.04::~~~android~~', 'cpe:/a:asus:smarthome:2.0.15::~~~iphone_os~~', 'cpe:/a:asus:smarthome:2.0.21::~~~iphone_os~~', 'cpe:/a:asus:smarthome:3.0.27_190111::~~~android~~']
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11364
 2019-09-03T11:03:57.413-04:00	:CVE-2019-11364 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12643
+2019-09-04T10:29:16.787-04:00	:CVE-2019-12643 (Score:10.0)['cpe:/o:cisco:ios_xe:15.5%283%29s3.16', 'cpe:/o:cisco:ios_xe:16.6.5']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12791
 2019-08-28T12:50:17.517-04:00	:CVE-2019-12791 (Score:9.0)['cpe:/a:vestacp:control_panel:0.9.8-24']
@@ -20,26 +23,14 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-12792
 2019-08-28T10:53:44.037-04:00	:CVE-2019-12792 (Score:9.0)['cpe:/a:vestacp:control_panel:0.9.8-24']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-14527
-2019-08-27T13:35:48.327-04:00	:CVE-2019-14527 (Score:10.0)
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-14684
-2019-08-27T10:00:15.060-04:00	:CVE-2019-14684 (Score:9.3)['cpe:/a:trendmicro:password_manager:5.0']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15027
-2019-08-27T13:48:13.347-04:00	:CVE-2019-15027 (Score:10.0)['cpe:/o:mediatek:mt6577_firmware:-::~~~android~~', 'cpe:/o:mediatek:mt6625_firmware:-::~~~android~~', 'cpe:/o:mediatek:mt8163_firmware:-::~~~android~~']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15107
-2019-08-27T10:44:52.347-04:00	:CVE-2019-15107 (Score:10.0)['cpe:/a:webmin:webmin:1.920']
-
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15130
 2019-08-30T07:36:02.980-04:00	:CVE-2019-15130 (Score:10.0)['cpe:/a:humanica:humatrix_7:1.0.0.203', 'cpe:/a:humanica:humatrix_7:1.0.0.681']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15295
 2019-08-28T11:54:15.847-04:00	:CVE-2019-15295 (Score:9.3)
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15498
-2019-08-27T15:19:18.223-04:00	:CVE-2019-15498 (Score:9.3)['cpe:/o:getvera:vera_edge_firmware:1.7.4452']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15497
+2019-09-04T10:50:52.987-04:00	:CVE-2019-15497 (Score:10.0)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15503
 2019-08-30T12:46:29.580-04:00	:CVE-2019-15503 (Score:10.0)['cpe:/a:altavoz:prontuscms:12.0.3.0']
@@ -47,20 +38,8 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15519
 2019-08-30T09:40:07.800-04:00	:CVE-2019-15519 (Score:10.0)
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15526
-2019-08-27T10:21:07.983-04:00	:CVE-2019-15526 (Score:9.0)['cpe:/o:dlink:dir-823g_firmware:1.0.2b05']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15527
-2019-08-27T10:17:49.880-04:00	:CVE-2019-15527 (Score:9.0)['cpe:/o:dlink:dir-823g_firmware:1.0.2b05']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15528
-2019-08-27T10:16:21.673-04:00	:CVE-2019-15528 (Score:9.0)['cpe:/o:dlink:dir-823g_firmware:1.0.2b05']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15529
-2019-08-27T10:09:25.293-04:00	:CVE-2019-15529 (Score:9.0)['cpe:/o:dlink:dir-823g_firmware:1.0.2b05']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15530
-2019-08-27T10:06:24.377-04:00	:CVE-2019-15530 (Score:9.0)['cpe:/o:dlink:dir-823g_firmware:1.0.2b05']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-15752
+2019-09-04T09:16:00.943-04:00	:CVE-2019-15752 (Score:9.3)
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1580
 2019-08-30T08:58:50.237-04:00	:CVE-2019-1580 (Score:10.0)['cpe:/o:paloaltonetworks:pan-os:7.1.24', 'cpe:/o:paloaltonetworks:pan-os:8.0.3:-', 'cpe:/o:paloaltonetworks:pan-os:8.0.4:-', 'cpe:/o:paloaltonetworks:pan-os:8.0.6:-', 'cpe:/o:paloaltonetworks:pan-os:8.0.11:-', 'cpe:/o:paloaltonetworks:pan-os:8.0.12', 'cpe:/o:paloaltonetworks:pan-os:8.0.13', 'cpe:/o:paloaltonetworks:pan-os:8.0.14', 'cpe:/o:paloaltonetworks:pan-os:8.0.15', 'cpe:/o:paloaltonetworks:pan-os:8.0.16', 'cpe:/o:paloaltonetworks:pan-os:8.0.17', 'cpe:/o:paloaltonetworks:pan-os:8.0.18', 'cpe:/o:paloaltonetworks:pan-os:8.0.19', 'cpe:/o:paloaltonetworks:pan-os:8.1.0', 'cpe:/o:paloaltonetworks:pan-os:8.1.1', 'cpe:/o:paloaltonetworks:pan-os:8.1.2', 'cpe:/o:paloaltonetworks:pan-os:8.1.3', 'cpe:/o:paloaltonetworks:pan-os:8.1.4:-', 'cpe:/o:paloaltonetworks:pan-os:8.1.4:h2', 'cpe:/o:paloaltonetworks:pan-os:8.1.5', 'cpe:/o:paloaltonetworks:pan-os:8.1.6:-', 'cpe:/o:paloaltonetworks:pan-os:8.1.6:h2', 'cpe:/o:paloaltonetworks:pan-os:8.1.7', 'cpe:/o:paloaltonetworks:pan-os:8.1.8:-', 'cpe:/o:paloaltonetworks:pan-os:8.1.8:h4', 'cpe:/o:paloaltonetworks:pan-os:8.1.8:h5', 'cpe:/o:paloaltonetworks:pan-os:8.1.9', 'cpe:/o:paloaltonetworks:pan-os:9.0.0', 'cpe:/o:paloaltonetworks:pan-os:9.0.1', 'cpe:/o:paloaltonetworks:pan-os:9.0.2:-', 'cpe:/o:paloaltonetworks:pan-os:9.0.2:h4', 'cpe:/o:paloaltonetworks:pan-os:9.0.3']
@@ -104,20 +83,11 @@
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1974
 2019-08-30T10:11:53.933-04:00	:CVE-2019-1974 (Score:10.0)['cpe:/a:cisco:integrated_management_controller_supervisor:2.1.0.0', 'cpe:/a:cisco:ucs_director:6.7%281.1%29', 'cpe:/a:cisco:ucs_director:6.7%282.0%29', 'cpe:/a:cisco:ucs_director_express_for_big_data:3.6.0.0', 'cpe:/a:cisco:ucs_director_express_for_big_data:3.6.1.0']
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3417
-2019-08-27T15:13:36.987-04:00	:CVE-2019-3417 (Score:9.0)['cpe:/o:zte:zxhn_f670_firmware:1.1.10p3t18']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3968
-2019-08-27T10:57:54.287-04:00	:CVE-2019-3968 (Score:9.0)['cpe:/a:open-emr:openemr:5.0.1']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3974
-2019-08-27T13:16:08.040-04:00	:CVE-2019-3974 (Score:8.5)['cpe:/a:tenable:nessus:8.5.2']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5475
+2019-09-04T22:34:17.347-04:00	:CVE-2019-5475 (Score:9.0)['cpe:/a:sonatype:nexus_repository_manager:2.0', 'cpe:/a:sonatype:nexus_repository_manager:2.0.1', 'cpe:/a:sonatype:nexus_repository_manager:2.0.2', 'cpe:/a:sonatype:nexus_repository_manager:2.0.3', 'cpe:/a:sonatype:nexus_repository_manager:2.0.4', 'cpe:/a:sonatype:nexus_repository_manager:2.0.4-1', 'cpe:/a:sonatype:nexus_repository_manager:2.0.5', 'cpe:/a:sonatype:nexus_repository_manager:2.0.6', 'cpe:/a:sonatype:nexus_repository_manager:2.1', 'cpe:/a:sonatype:nexus_repository_manager:2.1.1', 'cpe:/a:sonatype:nexus_repository_manager:2.1.2', 'cpe:/a:sonatype:nexus_repository_manager:2.2', 'cpe:/a:sonatype:nexus_repository_manager:2.2.1', 'cpe:/a:sonatype:nexus_repository_manager:2.3', 'cpe:/a:sonatype:nexus_repository_manager:2.3.1', 'cpe:/a:sonatype:nexus_repository_manager:2.4', 'cpe:/a:sonatype:nexus_repository_manager:2.5.0', 'cpe:/a:sonatype:nexus_repository_manager:2.5.1', 'cpe:/a:sonatype:nexus_repository_manager:2.6.0', 'cpe:/a:sonatype:nexus_repository_manager:2.6.1', 'cpe:/a:sonatype:nexus_repository_manager:2.6.2', 'cpe:/a:sonatype:nexus_repository_manager:2.6.3', 'cpe:/a:sonatype:nexus_repository_manager:2.6.4', 'cpe:/a:sonatype:nexus_repository_manager:2.7.0', 'cpe:/a:sonatype:nexus_repository_manager:2.7.0-04', 'cpe:/a:sonatype:nexus_repository_manager:2.7.0-05', 'cpe:/a:sonatype:nexus_repository_manager:2.7.0-06', 'cpe:/a:sonatype:nexus_repository_manager:2.7.1', 'cpe:/a:sonatype:nexus_repository_manager:2.7.2', 'cpe:/a:sonatype:nexus_repository_manager:2.8.0', 'cpe:/a:sonatype:nexus_repository_manager:2.8.1', 'cpe:/a:sonatype:nexus_repository_manager:2.9', 'cpe:/a:sonatype:nexus_repository_manager:2.9.1', 'cpe:/a:sonatype:nexus_repository_manager:2.9.2', 'cpe:/a:sonatype:nexus_repository_manager:2.10', 'cpe:/a:sonatype:nexus_repository_manager:2.11', 'cpe:/a:sonatype:nexus_repository_manager:2.11.1', 'cpe:/a:sonatype:nexus_repository_manager:2.11.2', 'cpe:/a:sonatype:nexus_repository_manager:2.11.3', 'cpe:/a:sonatype:nexus_repository_manager:2.11.4', 'cpe:/a:sonatype:nexus_repository_manager:2.12', 'cpe:/a:sonatype:nexus_repository_manager:2.12.1', 'cpe:/a:sonatype:nexus_repository_manager:2.13', 'cpe:/a:sonatype:nexus_repository_manager:2.14', 'cpe:/a:sonatype:nexus_repository_manager:2.14.1', 'cpe:/a:sonatype:nexus_repository_manager:2.14.2', 'cpe:/a:sonatype:nexus_repository_manager:2.14.3', 'cpe:/a:sonatype:nexus_repository_manager:2.14.4', 'cpe:/a:sonatype:nexus_repository_manager:2.14.5', 'cpe:/a:sonatype:nexus_repository_manager:2.14.6', 'cpe:/a:sonatype:nexus_repository_manager:2.14.7', 'cpe:/a:sonatype:nexus_repository_manager:2.14.8', 'cpe:/a:sonatype:nexus_repository_manager:2.14.9']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5631
 2019-08-29T14:09:52.023-04:00	:CVE-2019-5631 (Score:9.3)['cpe:/a:rapid7:insightappsec:2019.06.24']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7968
-2019-08-27T13:27:26.727-04:00	:CVE-2019-7968 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7969
 2019-08-28T10:23:30.270-04:00	:CVE-2019-7969 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
@@ -139,30 +109,6 @@
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7975
 2019-08-28T09:48:41.550-04:00	:CVE-2019-7975 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7976
-2019-08-27T13:25:08.393-04:00	:CVE-2019-7976 (Score:9.3)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7990
-2019-08-27T14:54:39.267-04:00	:CVE-2019-7990 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7992
-2019-08-27T13:28:12.870-04:00	:CVE-2019-7992 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7993
-2019-08-27T13:28:53.840-04:00	:CVE-2019-7993 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7994
-2019-08-27T15:03:36.540-04:00	:CVE-2019-7994 (Score:9.3)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7997
-2019-08-27T13:24:11.563-04:00	:CVE-2019-7997 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7998
-2019-08-27T12:03:17.357-04:00	:CVE-2019-7998 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8001
-2019-08-27T12:03:12.170-04:00	:CVE-2019-8001 (Score:10.0)['cpe:/a:adobe:photoshop_cc:19.1.8', 'cpe:/a:adobe:photoshop_cc:20.0', 'cpe:/a:adobe:photoshop_cc:20.0.1', 'cpe:/a:adobe:photoshop_cc:20.0.2', 'cpe:/a:adobe:photoshop_cc:20.0.3', 'cpe:/a:adobe:photoshop_cc:20.0.4']
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2019-9930
 2019-08-29T13:18:59.080-04:00	:CVE-2019-9930 (Score:10.0)['cpe:/o:lexmark:6500e_firmware:lhs60.jr.p705', 'cpe:/o:lexmark:c734_firmware:lr.sk.p815', 'cpe:/o:lexmark:c736_firmware:lr.ske.p815', 'cpe:/o:lexmark:c746_firmware:lhs60.cm2.p705', 'cpe:/o:lexmark:c748_firmware:lhs60.cm4.p705', 'cpe:/o:lexmark:c792_firmware:lhs60.hc.p705', 'cpe:/o:lexmark:c925_firmware:lhs60.hv.p705', 'cpe:/o:lexmark:c950_firmware:lhs60.tp.p705', 'cpe:/o:lexmark:cs31x_firmware:lw71.vyl.p230', 'cpe:/o:lexmark:cs41x_firmware:lw71.vy2.p230', 'cpe:/o:lexmark:cs748_firmware:lhs60.cm4.p705', 'cpe:/o:lexmark:cs796_firmware:lhs60.hc.p705', 'cpe:/o:lexmark:cx310_firmware:lw71.gm2.p230', 'cpe:/o:lexmark:e46x_firmware:lr.lbh.p815', 'cpe:/o:lexmark:m1140_firmware:lw71.prl.p230', 'cpe:/o:lexmark:m1145_firmware:lw71.pr2.p230', 'cpe:/o:lexmark:m3150dn_firmware:lw71.pr2.p230', 'cpe:/o:lexmark:m5155_firmware:lw71.dn4.p230', 'cpe:/o:lexmark:m5163_firmware:lw71.dn4.p230', 'cpe:/o:lexmark:m5163dn_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:m5170_firmware:lw71.dn7.p230', 'cpe:/o:lexmark:ms310_firmware:lw71.prl.p230', 'cpe:/o:lexmark:ms312_firmware:lw71.prl.p230', 'cpe:/o:lexmark:ms315_firmware:lw71.tl2.p230', 'cpe:/o:lexmark:ms317_firmware:lw71.prl.p230', 'cpe:/o:lexmark:ms410_firmware:lw71.prl.p230', 'cpe:/o:lexmark:ms415_firmware:lw71.tl2.p230', 'cpe:/o:lexmark:ms417_firmware:lw71.tl2.p230', 'cpe:/o:lexmark:ms51x_firmware:lw71.pr2.p230', 'cpe:/o:lexmark:ms610dn_firmware:lw71.pr2.p230', 'cpe:/o:lexmark:ms617_firmware:lw71.pr2.p230', 'cpe:/o:lexmark:ms71x_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:ms810_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:ms810de_firmware:lw71.dn4.p230', 'cpe:/o:lexmark:ms811_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:ms812_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:ms812de_firmware:lw71.dn7.p230', 'cpe:/o:lexmark:ms817_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:ms818_firmware:lw71.dn2.p230', 'cpe:/o:lexmark:ms91x_firmware:lw71.sa.p230', 'cpe:/o:lexmark:mx31x_firmware:lw71.sb2.p230', 'cpe:/o:lexmark:mx410_firmware:lw71.sb4.p230', 'cpe:/o:lexmark:mx510_firmware:lw71.sb4.p230', 'cpe:/o:lexmark:mx511_firmware:lw71.sb4.p230', 'cpe:/o:lexmark:mx610_firmware:lw71.sb7.p230', 'cpe:/o:lexmark:mx611_firmware:lw71.sb7.p230', 'cpe:/o:lexmark:mx6500e_firmware:lw71.jd.p230', 'cpe:/o:lexmark:mx71x_firmware:lw71.tu.p230', 'cpe:/o:lexmark:mx81x_firmware:lw71.tu.p230', 'cpe:/o:lexmark:mx91x_firmware:lw71.mg.p230', 'cpe:/o:lexmark:t65x_firmware:lr.jp.p815', 'cpe:/o:lexmark:w850_firmware:lp.jb.p815', 'cpe:/o:lexmark:x46x_firmware:lr.bs.p815', 'cpe:/o:lexmark:x548_firmware:lhs60.vk.p705', 'cpe:/o:lexmark:x65x_firmware:lr.mn.p815', 'cpe:/o:lexmark:x73x_firmware:lr.fl.p815', 'cpe:/o:lexmark:x74x_firmware:lhs60.ny.p705', 'cpe:/o:lexmark:x792_firmware:lhs60.mr.p705', 'cpe:/o:lexmark:x86x_firmware:lp.sp.p815', 'cpe:/o:lexmark:x925_firmware:lhs60.hk.p705', 'cpe:/o:lexmark:x95x_firmware:lhs60.tq.p705', 'cpe:/o:lexmark:xm1135_firmware:lw71.sb2.p230', 'cpe:/o:lexmark:xm3150_firmware:lw71.sb7.p230', 'cpe:/o:lexmark:xm51xx_firmware:lw71.tu.p230', 'cpe:/o:lexmark:xm71xx_firmware:lw71.tu.p230', 'cpe:/o:lexmark:xm91x_firmware:lw71.mg.p230', 'cpe:/o:lexmark:xs548_firmware:lhs60.vk.p705', 'cpe:/o:lexmark:xs748_firmware:lhs60.ny.p705', 'cpe:/o:lexmark:xs79x_firmware:lhs60.mr.p705', 'cpe:/o:lexmark:xs925_firmware:lhs60.hk.p705', 'cpe:/o:lexmark:xs95x_firmware:lhs60.tq.p705']
