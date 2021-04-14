@@ -3,8 +3,3 @@ MD 2021-04-07T08:15Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11210
 2021-04-12T18:31Z	:CVE-2020-11210 (Score: 6.0)
-MD 2021-04-05T08:15Z 
- CD 2021-04-12T12:03Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-29996
-2021-04-12T12:03Z	:CVE-2021-29996 (Score: 6.0)[u'cpe:2.3:a:marktext:marktext:*:*:*:*:*:*:*:*']
