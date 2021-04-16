@@ -1,5 +1,15 @@
-MD 2021-04-07T08:15Z 
- CD 2021-04-12T18:31Z
+MD 2021-04-12T14:15Z 
+ CD 2021-04-14T15:53Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11210
-2021-04-12T18:31Z	:CVE-2020-11210 (Score: 6.0)
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-24228
+2021-04-14T15:53Z	:CVE-2021-24228 (Score: 6.0)[u'cpe:2.3:a:patreon:patreon_wordpress:*:*:*:*:*:wordpress:*:*']
+MD 2021-04-12T14:15Z 
+ CD 2021-04-14T15:47Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-24229
+2021-04-14T15:47Z	:CVE-2021-24229 (Score: 6.0)[u'cpe:2.3:a:patreon:patreon_wordpress:*:*:*:*:*:wordpress:*:*']
+MD 2021-04-13T20:15Z 
+ CD 2021-04-14T13:01Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-28483
+2021-04-14T13:01Z	:CVE-2021-28483 (Score: 6.0)[u'cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*']
