@@ -1,48 +1,3 @@
-MD 2021-04-22T22:15Z 
- CD 2021-04-22T23:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2221
-2021-04-22T23:32Z	:CVE-2021-2221 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-23T19:05Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2177
-2021-04-23T19:05Z	:CVE-2021-2177 (Score: 6.0)[u'cpe:2.3:a:oracle:secure_global_desktop:5.6:*:*:*:*:*:*:*']
-MD 2021-04-22T22:15Z 
- CD 2021-04-23T21:24Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2145
-2021-04-23T21:24Z	:CVE-2021-2145 (Score: 6.0)[u'cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*']
-MD 2021-04-22T22:15Z 
- CD 2021-04-22T23:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2244
-2021-04-22T23:32Z	:CVE-2021-2244 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-22T23:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2248
-2021-04-22T23:32Z	:CVE-2021-2248 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-22T23:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2256
-2021-04-22T23:32Z	:CVE-2021-2256 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-22T23:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2318
-2021-04-22T23:32Z	:CVE-2021-2318 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-23T03:15Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2309
-2021-04-23T03:15Z	:CVE-2021-2309 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-22T23:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2250
-2021-04-22T23:32Z	:CVE-2021-2250 (Score: 6.0)
 MD 2021-04-22T20:15Z 
  CD 2021-04-22T20:25Z
 
@@ -56,15 +11,70 @@ MD 2021-04-22T22:15Z
 MD 2021-04-22T22:15Z 
  CD 2021-04-22T23:32Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2319
-2021-04-22T23:32Z	:CVE-2021-2319 (Score: 6.0)
-MD 2021-04-22T22:15Z 
- CD 2021-04-23T03:15Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2310
-2021-04-23T03:15Z	:CVE-2021-2310 (Score: 6.0)
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2221
+2021-04-22T23:32Z	:CVE-2021-2221 (Score: 6.0)
 MD 2021-04-22T22:15Z 
  CD 2021-04-22T23:32Z
 
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2256
+2021-04-22T23:32Z	:CVE-2021-2256 (Score: 6.0)
+MD 2021-04-22T22:15Z 
+ CD 2021-04-22T23:32Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2248
+2021-04-22T23:32Z	:CVE-2021-2248 (Score: 6.0)
+MD 2021-04-22T22:15Z 
+ CD 2021-04-22T23:32Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2244
+2021-04-22T23:32Z	:CVE-2021-2244 (Score: 6.0)
+MD 2021-04-22T22:15Z 
+ CD 2021-04-26T15:13Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2309
+2021-04-26T15:13Z	:CVE-2021-2309 (Score: 6.0)[u'cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-26T15:25Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2319
+2021-04-26T15:25Z	:CVE-2021-2319 (Score: 6.0)[u'cpe:2.3:a:oracle:cloud_infrastructure_storage_gateway:*:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-23T19:05Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2177
+2021-04-23T19:05Z	:CVE-2021-2177 (Score: 6.0)[u'cpe:2.3:a:oracle:secure_global_desktop:5.6:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-26T15:14Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2310
+2021-04-26T15:14Z	:CVE-2021-2310 (Score: 6.0)[u'cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-26T15:19Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2318
+2021-04-26T15:19Z	:CVE-2021-2318 (Score: 6.0)[u'cpe:2.3:a:oracle:cloud_infrastructure_storage_gateway:*:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-26T15:17Z
+
 	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2317
-2021-04-22T23:32Z	:CVE-2021-2317 (Score: 6.0)
+2021-04-26T15:17Z	:CVE-2021-2317 (Score: 6.0)[u'cpe:2.3:a:oracle:cloud_infrastructure_storage_gateway:*:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-23T21:24Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2145
+2021-04-23T21:24Z	:CVE-2021-2145 (Score: 6.0)[u'cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*']
+MD 2021-04-22T22:15Z 
+ CD 2021-04-26T14:24Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-2250
+2021-04-26T14:24Z	:CVE-2021-2250 (Score: 6.0)[u'cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*']
+MD 2021-04-22T18:15Z 
+ CD 2021-04-26T13:15Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-27278
+2021-04-26T13:15Z	:CVE-2021-27278 (Score: 6.0)[u'cpe:2.3:a:parallels:parallels_desktop:16.1.1:*:*:*:*:macos:*:*']
+MD 2021-04-23T17:15Z 
+ CD 2021-04-26T12:45Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-22893
+2021-04-26T12:45Z	:CVE-2021-22893 (Score: 6.0)[u'cpe:2.3:a:pulsesecure:pulse_connect_secure:*:*:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:-:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:r1:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:r2:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:r2.1:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:r3:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:-:*:*:*:*:*:*', u'cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r1:*:*:*:*:*:*']
