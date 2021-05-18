@@ -1,20 +1,5 @@
-MD 2021-04-29T17:15Z 
- CD 2021-05-06T13:34Z
+MD 2021-05-11T19:15Z 
+ CD 2021-05-14T13:53Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-31429
-2021-05-06T13:34Z	:CVE-2021-31429 (Score: 6.0)[u'cpe:2.3:a:parallels:parallels_desktop:15.1.5-47309:*:*:*:*:*:*:*']
-MD 2021-04-29T17:15Z 
- CD 2021-05-06T13:28Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-31428
-2021-05-06T13:28Z	:CVE-2021-31428 (Score: 6.0)[u'cpe:2.3:a:parallels:parallels_desktop:15.1.5-47309:*:*:*:*:*:*:*']
-MD 2021-04-29T17:15Z 
- CD 2021-05-05T20:42Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-31426
-2021-05-05T20:42Z	:CVE-2021-31426 (Score: 6.0)[u'cpe:2.3:a:parallels:parallels_desktop:16.1.2-49151:*:*:*:*:*:*:*']
-MD 2021-04-29T17:15Z 
- CD 2021-05-06T19:11Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-31420
-2021-05-06T19:11Z	:CVE-2021-31420 (Score: 6.0)[u'cpe:2.3:a:parallels:parallels_desktop:16.1.0-48950:*:*:*:*:*:*:*']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-28476
+2021-05-14T13:53Z	:CVE-2021-28476 (Score: 6.0)[u'cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:1607:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:1809:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_7:-:sp1:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_8.1:-:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_server_2008:-:sp2:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2016:-:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2016:20h2:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2016:1909:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2016:2004:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2019:-:*:*:*:*:*:*:*']
