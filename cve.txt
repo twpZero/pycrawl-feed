@@ -1,5 +1,0 @@
-MD 2021-06-01T14:15Z 
- CD 2021-06-03T16:18Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-4561
-2021-06-03T16:18Z	:CVE-2020-4561 (Score: 6.0)[u'cpe:2.3:a:ibm:cognos_analytics:11.0.0:*:*:*:*:*:*:*', u'cpe:2.3:a:ibm:cognos_analytics:11.1.0:*:*:*:*:*:*:*']
