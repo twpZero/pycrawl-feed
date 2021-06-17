@@ -1,0 +1,25 @@
+MD 2021-06-11T15:15Z 
+ CD 2021-06-16T20:39Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-25387
+2021-06-16T20:39Z	:CVE-2021-25387 (Score: 6.0)[u'cpe:2.3:o:google:android:8.1:*:*:*:*:*:*:*', u'cpe:2.3:o:google:android:9.0:*:*:*:*:*:*:*', u'cpe:2.3:o:google:android:10.0:*:*:*:*:*:*:*', u'cpe:2.3:o:google:android:11.0:*:*:*:*:*:*:*']
+MD 2021-06-09T05:15Z 
+ CD 2021-06-16T17:49Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11259
+2021-06-16T17:49Z	:CVE-2020-11259 (Score: 6.0)[]
+MD 2021-06-09T05:15Z 
+ CD 2021-06-16T18:06Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11258
+2021-06-16T18:06Z	:CVE-2020-11258 (Score: 6.0)[]
+MD 2021-06-09T05:15Z 
+ CD 2021-06-16T18:05Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11257
+2021-06-16T18:05Z	:CVE-2020-11257 (Score: 6.0)[]
+MD 2021-06-09T05:15Z 
+ CD 2021-06-16T18:02Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11256
+2021-06-16T18:02Z	:CVE-2020-11256 (Score: 6.0)[]
