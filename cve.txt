@@ -1,25 +1,15 @@
-MD 2021-06-11T15:15Z 
- CD 2021-06-16T20:39Z
+MD 2021-06-28T14:15Z 
+ CD 2021-06-28T14:21Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-25387
-2021-06-16T20:39Z	:CVE-2021-25387 (Score: 6.0)[u'cpe:2.3:o:google:android:8.1:*:*:*:*:*:*:*', u'cpe:2.3:o:google:android:9.0:*:*:*:*:*:*:*', u'cpe:2.3:o:google:android:10.0:*:*:*:*:*:*:*', u'cpe:2.3:o:google:android:11.0:*:*:*:*:*:*:*']
-MD 2021-06-09T05:15Z 
- CD 2021-06-16T17:49Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-28570
+2021-06-28T14:21Z	:CVE-2021-28570 (Score: 6.0)
+MD 2021-06-24T09:15Z 
+ CD 2021-06-29T16:37Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11259
-2021-06-16T17:49Z	:CVE-2020-11259 (Score: 6.0)[]
-MD 2021-06-09T05:15Z 
- CD 2021-06-16T18:06Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-25650
+2021-06-29T16:37Z	:CVE-2021-25650 (Score: 6.0)[u'cpe:2.3:a:avaya:aura_utility_services:*:*:*:*:*:*:*:*']
+MD 2021-06-23T22:15Z 
+ CD 2021-06-29T20:36Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11258
-2021-06-16T18:06Z	:CVE-2020-11258 (Score: 6.0)[]
-MD 2021-06-09T05:15Z 
- CD 2021-06-16T18:05Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11257
-2021-06-16T18:05Z	:CVE-2020-11257 (Score: 6.0)[]
-MD 2021-06-09T05:15Z 
- CD 2021-06-16T18:02Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-11256
-2021-06-16T18:02Z	:CVE-2020-11256 (Score: 6.0)[]
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-21809
+2021-06-29T20:36Z	:CVE-2021-21809 (Score: 6.0)[u'cpe:2.3:a:moodle:moodle:3.10.0:-:*:*:*:*:*:*']
