@@ -1,15 +1,10 @@
+MD 2021-06-29T10:15Z 
+ CD 2021-07-02T17:35Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-31838
+2021-07-02T17:35Z	:CVE-2021-31838 (Score: 6.0)[u'cpe:2.3:a:mcafee:mvision_edr:*:*:*:*:*:*:*:*']
 MD 2021-06-28T14:15Z 
- CD 2021-06-28T14:21Z
+ CD 2021-07-02T14:21Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2021-28570
-2021-06-28T14:21Z	:CVE-2021-28570 (Score: 6.0)
-MD 2021-06-24T09:15Z 
- CD 2021-06-29T16:37Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-25650
-2021-06-29T16:37Z	:CVE-2021-25650 (Score: 6.0)[u'cpe:2.3:a:avaya:aura_utility_services:*:*:*:*:*:*:*:*']
-MD 2021-06-23T22:15Z 
- CD 2021-06-29T20:36Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-21809
-2021-06-29T20:36Z	:CVE-2021-21809 (Score: 6.0)[u'cpe:2.3:a:moodle:moodle:3.10.0:-:*:*:*:*:*:*']
+2021-07-02T14:21Z	:CVE-2021-28570 (Score: 6.0)[]
