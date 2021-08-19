@@ -1,0 +1,5 @@
+MD 2021-08-17T22:15Z 
+ CD 2021-08-18T13:45Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-28372
+2021-08-18T13:45Z	:CVE-2021-28372 (Score: 6.0)[u'cpe:2.3:a:throughtek:kalay_p2p_software_development_kit:*:*:*:*:*:*:*:*']
