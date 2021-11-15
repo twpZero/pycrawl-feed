@@ -1,40 +1,20 @@
-MD 2021-11-03T17:15Z 
- CD 2021-11-04T19:00Z
+MD 2021-11-10T12:15Z 
+ CD 2021-11-10T12:26Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-20982
-2021-11-04T19:00Z	:CVE-2020-20982 (Score: 6.0)[u'cpe:2.3:a:wdja:wdja_cms:1.5.1:*:*:*:*:*:*:*']
-MD 2021-11-02T23:15Z 
- CD 2021-11-03T16:32Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-34582
+2021-11-10T12:26Z	:CVE-2021-34582 (Score: 6.0)
+MD 2021-11-10T01:19Z 
+ CD 2021-11-12T17:32Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-6492
-2021-11-03T16:32Z	:CVE-2020-6492 (Score: 6.0)[u'cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*']
-MD 2021-11-02T22:15Z 
- CD 2021-11-04T16:49Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-41372
+2021-11-12T17:32Z	:CVE-2021-41372 (Score: 6.0)[u'cpe:2.3:a:microsoft:power_bi_report_server:15.0.1107.165:*:*:*:*:*:*:*']
+MD 2021-11-10T01:16Z 
+ CD 2021-11-10T16:01Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-37981
-2021-11-04T16:49Z	:CVE-2021-37981 (Score: 6.0)[u'cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*']
-MD 2021-11-02T22:15Z 
- CD 2021-11-04T16:45Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-26443
+2021-11-10T16:01Z	:CVE-2021-26443 (Score: 6.0)[u'cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:21h1:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:1809:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:x64:*', u'cpe:2.3:o:microsoft:windows_server_2016:20h2:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2016:2004:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2019:-:*:*:*:*:*:*:*', u'cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:*:*:*:*']
+MD 2021-11-08T18:15Z 
+ CD 2021-11-10T20:25Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2017-5123
-2021-11-04T16:45Z	:CVE-2017-5123 (Score: 6.0)[u'cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*']
-MD 2021-11-02T18:15Z 
- CD 2021-11-03T19:06Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-23754
-2021-11-03T19:06Z	:CVE-2020-23754 (Score: 6.0)[u'cpe:2.3:a:php-fusion:phpfusion:9.03.50:*:*:*:*:*:*:*']
-MD 2021-11-02T18:15Z 
- CD 2021-11-03T19:12Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-23719
-2021-11-03T19:12Z	:CVE-2020-23719 (Score: 6.0)[u'cpe:2.3:a:zibbs_project:zibbs:1.0:*:*:*:*:*:*:*']
-MD 2021-11-02T18:15Z 
- CD 2021-11-03T19:41Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2020-23718
-2021-11-03T19:41Z	:CVE-2020-23718 (Score: 6.0)[u'cpe:2.3:a:zibbs_project:zibbs:1.0:*:*:*:*:*:*:*']
-MD 2021-10-28T11:15Z 
- CD 2021-11-03T13:59Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2019-19810
-2021-11-03T13:59Z	:CVE-2019-19810 (Score: 6.0)[u'cpe:2.3:a:zoom:call_recording:6.3.1:*:*:*:*:*:*:*']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-24693
+2021-11-10T20:25Z	:CVE-2021-24693 (Score: 6.0)[u'cpe:2.3:a:tipsandtricks-hq:simple_download_monitor:*:*:*:*:*:wordpress:*:*']
