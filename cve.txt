@@ -1,20 +1,25 @@
-MD 2021-11-23T22:15Z 
- CD 2021-11-24T16:27Z
+MD 2021-12-16T19:15Z 
+ CD 2021-12-16T20:05Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-38002
-2021-11-24T16:27Z	:CVE-2021-38002 (Score: 6.0)[u'cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*']
-MD 2021-11-23T20:15Z 
- CD 2021-11-24T20:01Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-43837
+2021-12-16T20:05Z	:CVE-2021-43837 (Score: 6.0)
+MD 2021-12-15T20:15Z 
+ CD 2021-12-15T21:15Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-36312
-2021-11-24T20:01Z	:CVE-2021-36312 (Score: 6.0)[u'cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*']
-MD 2021-11-21T15:15Z 
- CD 2021-11-23T18:58Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-43836
+2021-12-15T21:15Z	:CVE-2021-43836 (Score: 6.0)
+MD 2021-12-14T20:15Z 
+ CD 2021-12-14T20:32Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-28710
-2021-11-23T18:58Z	:CVE-2021-28710 (Score: 6.0)[u'cpe:2.3:o:xen:xen:4.15.0:*:*:*:*:*:x86:*']
-MD 2021-11-20T15:15Z 
- CD 2021-11-24T15:38Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-43821
+2021-12-14T20:32Z	:CVE-2021-43821 (Score: 6.0)
+MD 2021-12-13T20:15Z 
+ CD 2021-12-14T00:11Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-23201
-2021-11-24T15:38Z	:CVE-2021-23201 (Score: 6.0)[]
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-43814
+2021-12-14T00:11Z	:CVE-2021-43814 (Score: 6.0)
+MD 2021-12-13T11:15Z 
+ CD 2021-12-15T19:17Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-24922
+2021-12-15T19:17Z	:CVE-2021-24922 (Score: 6.0)[u'cpe:2.3:a:fatcatapps:pixel_cat:*:*:*:*:*:wordpress:*:*']
