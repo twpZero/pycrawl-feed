@@ -1,5 +1,0 @@
-MD 2021-12-16T19:15Z 
- CD 2021-12-16T20:05Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-43837
-2021-12-16T20:05Z	:CVE-2021-43837 (Score: 6.0)
