@@ -1,15 +1,40 @@
-MD 2022-01-05T12:15Z 
- CD 2022-01-08T02:49Z
+MD 2022-01-11T21:15Z 
+ CD 2022-01-12T04:08Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-31589
-2022-01-08T02:49Z	:CVE-2021-31589 (Score: 6.0)[u'cpe:2.3:o:beyondtrust:appliance_base_software:*:*:*:*:*:*:*:*']
-MD 2022-01-04T22:15Z 
- CD 2022-01-07T16:22Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21969
+2022-01-12T04:08Z	:CVE-2022-21969 (Score: 6.0)
+MD 2022-01-11T21:15Z 
+ CD 2022-01-12T04:08Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-22045
-2022-01-07T16:22Z	:CVE-2021-22045 (Score: 6.0)[u'cpe:2.3:a:vmware:cloud_foundation:3.0:-:*:*:*:*:*:*', u'cpe:2.3:a:vmware:cloud_foundation:4.0:-:*:*:*:*:*:*', u'cpe:2.3:a:vmware:fusion:*:*:*:*:*:macos:*:*', u'cpe:2.3:a:vmware:workstation:*:*:*:*:*:*:*:*', u'cpe:2.3:o:vmware:esxi:6.5:-:*:*:*:*:*:*', u'cpe:2.3:o:vmware:esxi:6.7:-:*:*:*:*:*:*', u'cpe:2.3:o:vmware:esxi:7.0:-:*:*:*:*:*:*']
-MD 2022-01-03T10:15Z 
- CD 2022-01-07T19:41Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21912
+2022-01-12T04:08Z	:CVE-2022-21912 (Score: 6.0)
+MD 2022-01-11T21:15Z 
+ CD 2022-01-12T04:08Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-45917
-2022-01-07T19:41Z	:CVE-2021-45917 (Score: 6.0)[]
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21901
+2022-01-12T04:08Z	:CVE-2022-21901 (Score: 6.0)
+MD 2022-01-11T21:15Z 
+ CD 2022-01-12T04:08Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21898
+2022-01-12T04:08Z	:CVE-2022-21898 (Score: 6.0)
+MD 2022-01-11T21:15Z 
+ CD 2022-01-12T04:08Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21855
+2022-01-12T04:08Z	:CVE-2022-21855 (Score: 6.0)
+MD 2022-01-10T16:15Z 
+ CD 2022-01-10T16:53Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-22115
+2022-01-10T16:53Z	:CVE-2022-22115 (Score: 6.0)
+MD 2022-01-10T16:15Z 
+ CD 2022-01-10T16:53Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-22114
+2022-01-10T16:53Z	:CVE-2022-22114 (Score: 6.0)
+MD 2022-01-10T14:10Z 
+ CD 2022-01-13T19:06Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-23594
+2022-01-13T19:06Z	:CVE-2021-23594 (Score: 6.0)[u'cpe:2.3:a:agoric:realms-shim:*:*:*:*:*:node.js:*:*']
