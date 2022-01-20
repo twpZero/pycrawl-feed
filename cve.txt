@@ -1,35 +1,35 @@
+MD 2022-01-19T12:15Z 
+ CD 2022-01-19T13:08Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21391
+2022-01-19T13:08Z	:CVE-2022-21391 (Score: 6.0)
+MD 2022-01-19T12:15Z 
+ CD 2022-01-19T13:08Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21390
+2022-01-19T13:08Z	:CVE-2022-21390 (Score: 6.0)
+MD 2022-01-19T12:15Z 
+ CD 2022-01-19T13:08Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21389
+2022-01-19T13:08Z	:CVE-2022-21389 (Score: 6.0)
+MD 2022-01-19T12:15Z 
+ CD 2022-01-19T13:09Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21276
+2022-01-19T13:09Z	:CVE-2022-21276 (Score: 6.0)
+MD 2022-01-19T12:15Z 
+ CD 2022-01-19T13:09Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21275
+2022-01-19T13:09Z	:CVE-2022-21275 (Score: 6.0)
+MD 2022-01-19T12:15Z 
+ CD 2022-01-19T13:09Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-35683
+2022-01-19T13:09Z	:CVE-2021-35683 (Score: 6.0)
 MD 2022-01-13T12:15Z 
  CD 2022-01-14T20:32Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2021-30285
 2022-01-14T20:32Z	:CVE-2021-30285 (Score: 6.0)[]
-MD 2022-01-11T21:15Z 
- CD 2022-01-12T04:08Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21969
-2022-01-12T04:08Z	:CVE-2022-21969 (Score: 6.0)
-MD 2022-01-11T21:15Z 
- CD 2022-01-12T04:08Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21912
-2022-01-12T04:08Z	:CVE-2022-21912 (Score: 6.0)
-MD 2022-01-11T21:15Z 
- CD 2022-01-12T04:08Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21901
-2022-01-12T04:08Z	:CVE-2022-21901 (Score: 6.0)
-MD 2022-01-11T21:15Z 
- CD 2022-01-12T04:08Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21898
-2022-01-12T04:08Z	:CVE-2022-21898 (Score: 6.0)
-MD 2022-01-11T21:15Z 
- CD 2022-01-14T16:14Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21855
-2022-01-14T16:14Z	:CVE-2022-21855 (Score: 6.0)[u'cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*']
-MD 2022-01-11T21:15Z 
- CD 2022-01-14T17:33Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21846
-2022-01-14T17:33Z	:CVE-2022-21846 (Score: 6.0)[u'cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*', u'cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*']
