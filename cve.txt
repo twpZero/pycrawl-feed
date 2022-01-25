@@ -1,35 +1,30 @@
 MD 2022-01-19T12:15Z 
- CD 2022-01-19T13:08Z
+ CD 2022-01-25T03:23Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21391
-2022-01-19T13:08Z	:CVE-2022-21391 (Score: 6.0)
+2022-01-25T03:23Z	:CVE-2022-21391 (Score: 6.0)[u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.3.0:*:*:*:*:*:*:*', u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.4.0:*:*:*:*:*:*:*']
 MD 2022-01-19T12:15Z 
- CD 2022-01-19T13:08Z
+ CD 2022-01-25T03:14Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21390
-2022-01-19T13:08Z	:CVE-2022-21390 (Score: 6.0)
+2022-01-25T03:14Z	:CVE-2022-21390 (Score: 6.0)[u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.3.0:*:*:*:*:*:*:*', u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.4.0:*:*:*:*:*:*:*']
 MD 2022-01-19T12:15Z 
- CD 2022-01-19T13:08Z
+ CD 2022-01-24T20:40Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21389
-2022-01-19T13:08Z	:CVE-2022-21389 (Score: 6.0)
+2022-01-24T20:40Z	:CVE-2022-21389 (Score: 6.0)[u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.3.0:*:*:*:*:*:*:*', u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.4.0:*:*:*:*:*:*:*']
 MD 2022-01-19T12:15Z 
- CD 2022-01-19T13:09Z
+ CD 2022-01-21T22:22Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21276
-2022-01-19T13:09Z	:CVE-2022-21276 (Score: 6.0)
+2022-01-21T22:22Z	:CVE-2022-21276 (Score: 6.0)[u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.3.0:*:*:*:*:*:*:*', u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.4.0:*:*:*:*:*:*:*']
 MD 2022-01-19T12:15Z 
- CD 2022-01-19T13:09Z
+ CD 2022-01-21T22:28Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21275
-2022-01-19T13:09Z	:CVE-2022-21275 (Score: 6.0)
+2022-01-21T22:28Z	:CVE-2022-21275 (Score: 6.0)[u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.3.0:*:*:*:*:*:*:*', u'cpe:2.3:a:oracle:communications_billing_and_revenue_management:12.0.0.4.0:*:*:*:*:*:*:*']
 MD 2022-01-19T12:15Z 
- CD 2022-01-19T13:09Z
+ CD 2022-01-20T21:42Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2021-35683
-2022-01-19T13:09Z	:CVE-2021-35683 (Score: 6.0)
-MD 2022-01-13T12:15Z 
- CD 2022-01-14T20:32Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-30285
-2022-01-14T20:32Z	:CVE-2021-30285 (Score: 6.0)[]
+2022-01-20T21:42Z	:CVE-2021-35683 (Score: 6.0)[u'cpe:2.3:a:oracle:essbase_administration_services:*:*:*:*:*:*:*:*']
