@@ -1,4 +1,9 @@
 MD 2022-01-19T12:15Z 
+ CD 2022-01-26T00:15Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21392
+2022-01-26T00:15Z	:CVE-2022-21392 (Score: 6.0)[u'cpe:2.3:a:oracle:enterprise_manager_base_platform:13.4.0.0:*:*:*:*:*:*:*', u'cpe:2.3:a:oracle:enterprise_manager_base_platform:13.5.0.0:*:*:*:*:*:*:*']
+MD 2022-01-19T12:15Z 
  CD 2022-01-25T03:23Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21391
