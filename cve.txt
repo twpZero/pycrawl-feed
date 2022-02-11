@@ -1,10 +1,25 @@
+MD 2022-02-09T17:15Z 
+ CD 2022-02-09T17:35Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21995
+2022-02-09T17:35Z	:CVE-2022-21995 (Score: 6.0)
+MD 2022-02-09T17:15Z 
+ CD 2022-02-09T17:35Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21989
+2022-02-09T17:35Z	:CVE-2022-21989 (Score: 6.0)
 MD 2022-02-07T17:15Z 
  CD 2022-02-07T18:12Z
 
 	 > https://nvd.nist.gov/vuln/detail/CVE-2022-23263
 2022-02-07T18:12Z	:CVE-2022-23263 (Score: 6.0)
-MD 2022-02-01T13:15Z 
- CD 2022-02-07T20:41Z
+MD 2022-02-04T23:15Z 
+ CD 2022-02-10T02:31Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-24814
-2022-02-07T20:41Z	:CVE-2021-24814 (Score: 6.0)[u'cpe:2.3:a:welaunch:wordpress_gdpr\\&ccpa:*:*:*:*:*:wordpress:*:*']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2021-4154
+2022-02-10T02:31Z	:CVE-2021-4154 (Score: 6.0)[u'cpe:2.3:o:linux:linux_kernel:*:*:*:*:*:*:*:*', u'cpe:2.3:o:linux:linux_kernel:5.14:-:*:*:*:*:*:*', u'cpe:2.3:o:linux:linux_kernel:5.14:rc1:*:*:*:*:*:*']
+MD 2022-02-04T23:15Z 
+ CD 2022-02-09T15:41Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2013-20003
+2022-02-09T15:41Z	:CVE-2013-20003 (Score: 6.0)[]
