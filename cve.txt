@@ -1,0 +1,35 @@
+MD 2022-04-19T21:15Z 
+ CD 2022-04-19T21:15Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21442
+2022-04-19T21:15Z	:CVE-2022-21442 (Score: 6.0)
+MD 2022-04-19T21:15Z 
+ CD 2022-04-19T21:15Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21431
+2022-04-19T21:15Z	:CVE-2022-21431 (Score: 6.0)
+MD 2022-04-19T21:15Z 
+ CD 2022-04-19T21:15Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21430
+2022-04-19T21:15Z	:CVE-2022-21430 (Score: 6.0)
+MD 2022-04-15T19:15Z 
+ CD 2022-04-18T09:00Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-24537
+2022-04-18T09:00Z	:CVE-2022-24537 (Score: 6.0)
+MD 2022-04-15T19:15Z 
+ CD 2022-04-18T09:00Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-23257
+2022-04-18T09:00Z	:CVE-2022-23257 (Score: 6.0)
+MD 2022-04-15T19:15Z 
+ CD 2022-04-18T09:00Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-22009
+2022-04-18T09:00Z	:CVE-2022-22009 (Score: 6.0)
+MD 2022-04-15T19:15Z 
+ CD 2022-04-18T09:00Z
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-22008
+2022-04-18T09:00Z	:CVE-2022-22008 (Score: 6.0)
