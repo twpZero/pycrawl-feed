@@ -1,45 +1,10 @@
-MD 2022-05-11T15:15Z 
- CD 2022-05-11T15:18Z
+MD 2022-05-17T20:15Z 
+ CD 2022-05-18T12:41Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-29898
-2022-05-11T15:18Z	:CVE-2022-29898 (Score: 6.0)
-MD 2022-05-11T15:15Z 
- CD 2022-05-11T15:18Z
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-28182
+2022-05-18T12:41Z	:CVE-2022-28182 (Score: 6.0)
+MD 2022-05-17T20:15Z 
+ CD 2022-05-18T12:41Z
 
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-29897
-2022-05-11T15:18Z	:CVE-2022-29897 (Score: 6.0)
-MD 2022-05-10T21:15Z 
- CD 2022-05-11T12:09Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-29133
-2022-05-11T12:09Z	:CVE-2022-29133 (Score: 6.0)
-MD 2022-05-10T21:15Z 
- CD 2022-05-11T12:09Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-29113
-2022-05-11T12:09Z	:CVE-2022-29113 (Score: 6.0)
-MD 2022-05-10T21:15Z 
- CD 2022-05-11T12:09Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-26932
-2022-05-11T12:09Z	:CVE-2022-26932 (Score: 6.0)
-MD 2022-05-10T21:15Z 
- CD 2022-05-11T12:09Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-21978
-2022-05-11T12:09Z	:CVE-2022-21978 (Score: 6.0)
-MD 2022-05-05T18:15Z 
- CD 2022-05-13T04:26Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-25268
-2022-05-13T04:26Z	:CVE-2021-25268 (Score: 6.0)[]
-MD 2022-05-05T18:15Z 
- CD 2022-05-13T04:26Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2021-25267
-2022-05-13T04:26Z	:CVE-2021-25267 (Score: 6.0)[]
-MD 2022-05-05T12:15Z 
- CD 2022-05-12T20:13Z
-
-	 > https://nvd.nist.gov/vuln/detail/CVE-2022-1575
-2022-05-12T20:13Z	:CVE-2022-1575 (Score: 6.0)['cpe:2.3:a:diagrams:drawio:*:*:*:*:*:*:*:*']
+	 > https://nvd.nist.gov/vuln/detail/CVE-2022-28181
+2022-05-18T12:41Z	:CVE-2022-28181 (Score: 6.0)
