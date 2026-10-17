@@ -1,0 +1,27 @@
+name: Update the feed
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: update-feed
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Crawl
+        run: ./update-feed.sh
+      - name: Commit and push
+        run: |
+          git config user.name "TWP_Zero"
+          git config user.email "49241247+twpZero@users.noreply.github.com"
+          git add pycrawlfeed.json links.dump
+          git diff --cached --quiet && exit 0
+          git commit -m "Update the feed for $(date -u +%F)"
+          git push

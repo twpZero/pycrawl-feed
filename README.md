@@ -1,8 +1,6 @@
 # pycrawl-feed
 
-The JSON output of [pycrawl](https://github.com/twpZero/pycrawl), my small crawler for security news monitoring. A script ran pycrawl and committed the fresh `pycrawlfeed.json` here, so anyone could fetch the feed with a single URL.
-
-> **Status:** the last automatic update was in September 2022. The file is kept as a sample of pycrawl's output, not as a live feed.
+The JSON output of [pycrawl](https://github.com/twpZero/pycrawl), my small crawler for security news monitoring. Every day a GitHub Actions job runs pycrawl and commits the fresh `pycrawlfeed.json` here, so anyone can fetch the feed with a single URL.
 
 ## Browse it
 
@@ -21,6 +19,7 @@ curl -s https://raw.githubusercontent.com/twpZero/pycrawl-feed/master/pycrawlfee
 
 ```json
 {
+  "Updated": "2026-10-17T05:17:42Z",
   "Veille": {
     "ransomware": ["https://…", "https://…"],
     "botnets":    []
@@ -32,8 +31,17 @@ curl -s https://raw.githubusercontent.com/twpZero/pycrawl-feed/master/pycrawlfee
 }
 ```
 
+* **Updated**: when the crawl ran, in UTC.
 * **Veille** (French for *monitoring*): the watched keywords, each with the new article links that mention it in that run. Empty when nothing new was found.
 * **Trends**: the words seen most often during the crawl, grouped by number of occurrences (5 or more), as comma-separated lists.
+
+## How it updates
+
+* `.github/workflows/update-feed.yml` runs `update-feed.sh` every day at 05:17 UTC (or on demand from the Actions tab).
+* `update-feed.sh` clones [pycrawl](https://github.com/twpZero/pycrawl), crawls the sources listed in its `crawl.conf`, and writes `pycrawlfeed.json` and `links.dump` (the links seen on earlier runs, so only new ones land in *Veille*). It keeps the old feed if every source failed.
+* `register.dump` lists the watched keywords. Sources and the word blacklist live in pycrawl's `crawl.conf`.
+
+To run it by hand: `./update-feed.sh`, then commit the two files.
 
 ## Make your own
 

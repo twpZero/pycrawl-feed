@@ -85,7 +85,7 @@ footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
 <div class="wrap">
   <header>
     <h1>pycrawl feed</h1>
-    <p>Security news monitoring output of <a href="https://github.com/twpZero/pycrawl">pycrawl</a>. Last automatic update: September 2022 (kept as a sample).</p>
+    <p>Security news monitoring output of <a href="https://github.com/twpZero/pycrawl">pycrawl</a>. Updated daily. Last run: <span id="updated">…</span>.</p>
   </header>
 
   <div class="bar" role="tablist">
@@ -225,9 +225,12 @@ footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
       rawText = t;
       data = JSON.parse(t);
       $("json").textContent = JSON.stringify(data, null, 2);
+      var when = data.Updated ? new Date(data.Updated) : null;
+      $("updated").textContent = when && !isNaN(when) ? when.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" }) : "unknown";
       render();
     })
     .catch(function (e) {
+      $("updated").textContent = "unknown";
       $("stats").textContent = "Could not load pycrawlfeed.json (" + e.message + ").";
       $("json").textContent = "Could not load pycrawlfeed.json (" + e.message + ").";
     });
