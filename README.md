@@ -4,9 +4,16 @@ The JSON output of [pycrawl](https://github.com/twpZero/pycrawl), my small crawl
 
 > **Status:** the last automatic update was in September 2022. The file is kept as a sample of pycrawl's output, not as a live feed.
 
+## Browse it
+
+[twpzero.github.io/pycrawl-feed](https://twpzero.github.io/pycrawl-feed/) shows the feed as a compact page (keywords with their articles, word trends, a filter) with a *Raw JSON* tab to view, copy or download the file.
+
 ## Fetch it
 
+The JSON stays directly reachable, on GitHub Pages or raw:
+
 ```bash
+curl -s https://twpzero.github.io/pycrawl-feed/pycrawlfeed.json
 curl -s https://raw.githubusercontent.com/twpZero/pycrawl-feed/master/pycrawlfeed.json
 ```
 

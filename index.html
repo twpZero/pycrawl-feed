@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>pycrawl feed</title>
+<meta name="description" content="Security news monitoring feed produced by pycrawl: watched keywords with matching articles, and crawl word trends.">
+<link rel="alternate" type="application/json" href="pycrawlfeed.json" title="pycrawl feed (JSON)">
+<style>
+:root {
+  --bg: #fafaf9; --fg: #1c1917; --muted: #78716c; --line: #e7e5e4;
+  --card: #ffffff; --accent: #0f766e; --accent-soft: #ccfbf1; --mark: #fef08a;
+  --code-bg: #f5f5f4;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0c0a09; --fg: #e7e5e4; --muted: #a8a29e; --line: #292524;
+    --card: #1c1917; --accent: #2dd4bf; --accent-soft: #134e4a; --mark: #854d0e;
+    --code-bg: #171412;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0c0a09; --fg: #e7e5e4; --muted: #a8a29e; --line: #292524;
+  --card: #1c1917; --accent: #2dd4bf; --accent-soft: #134e4a; --mark: #854d0e;
+  --code-bg: #171412;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+a { color: var(--accent); }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 16px; }
+header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin-bottom: 12px; }
+header h1 { font-size: 20px; margin: 0; }
+header p { margin: 0; color: var(--muted); font-size: 13px; }
+.bar {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  border-bottom: 1px solid var(--line); margin-bottom: 12px;
+}
+.tab {
+  background: none; border: 0; border-bottom: 2px solid transparent;
+  color: var(--muted); font: inherit; font-weight: 600; padding: 8px 4px; cursor: pointer;
+}
+.tab[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--accent); }
+.bar .spacer { flex: 1; }
+input[type="search"] {
+  font: inherit; padding: 4px 8px; border: 1px solid var(--line); border-radius: 6px;
+  background: var(--card); color: var(--fg); width: 200px; max-width: 100%; margin-bottom: 4px;
+}
+.btn {
+  font: inherit; font-size: 13px; padding: 4px 10px; border: 1px solid var(--line); border-radius: 6px;
+  background: var(--card); color: var(--fg); cursor: pointer; text-decoration: none; display: inline-block;
+}
+.btn:hover { border-color: var(--accent); }
+.stats { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+h2 { font-size: 15px; margin: 16px 0 8px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 8px; }
+.kw { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; min-width: 0; }
+.kw h3 { margin: 0 0 4px; font-size: 14px; display: flex; justify-content: space-between; gap: 8px; }
+.kw h3 .n { color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; }
+.kw ul { margin: 0; padding: 0; list-style: none; }
+.kw li { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 13px; }
+.kw li .host { color: var(--muted); }
+.empty { color: var(--muted); font-size: 13px; }
+.empty span { display: inline-block; background: var(--code-bg); border-radius: 4px; padding: 0 6px; margin: 2px 2px 0 0; }
+.trends { background: var(--card); border: 1px solid var(--line); border-radius: 8px; }
+.trow { display: flex; gap: 10px; padding: 4px 10px; border-top: 1px solid var(--line); font-size: 13px; }
+.trow:first-child { border-top: 0; }
+.trow .c { flex: 0 0 44px; text-align: right; font-weight: 600; color: var(--accent); font-variant-numeric: tabular-nums; }
+.trow .w { min-width: 0; overflow-wrap: anywhere; }
+.more { margin-top: 8px; }
+mark { background: var(--mark); color: inherit; border-radius: 2px; }
+pre {
+  margin: 0; padding: 12px; background: var(--code-bg); border: 1px solid var(--line); border-radius: 8px;
+  overflow: auto; max-height: 75vh; white-space: pre-wrap; overflow-wrap: anywhere; font: 12px/1.4 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+.rawbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 8px; }
+.rawbar code { font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+[hidden] { display: none !important; }
+footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>pycrawl feed</h1>
+    <p>Security news monitoring output of <a href="https://github.com/twpZero/pycrawl">pycrawl</a>. Last automatic update: September 2022 (kept as a sample).</p>
+  </header>
+
+  <div class="bar" role="tablist">
+    <button class="tab" role="tab" id="tab-feed" aria-controls="feed" aria-selected="true">Feed</button>
+    <button class="tab" role="tab" id="tab-raw" aria-controls="raw" aria-selected="false">Raw JSON</button>
+    <span class="spacer"></span>
+    <input type="search" id="q" placeholder="Filter keywords, links, words…" aria-label="Filter">
+  </div>
+
+  <main>
+    <section id="feed" role="tabpanel" aria-labelledby="tab-feed">
+      <p class="stats" id="stats">Loading…</p>
+      <h2>Veille <span class="stats">· watched keywords with new articles</span></h2>
+      <div class="grid" id="veille"></div>
+      <p class="empty" id="veille-empty"></p>
+      <h2>Trends <span class="stats">· most frequent words, by occurrences</span></h2>
+      <div class="trends" id="trends"></div>
+      <button class="btn more" id="more" hidden></button>
+    </section>
+
+    <section id="raw" role="tabpanel" aria-labelledby="tab-raw" hidden>
+      <div class="rawbar">
+        <a class="btn" href="pycrawlfeed.json" download>Download JSON</a>
+        <button class="btn" id="copy">Copy</button>
+        <a class="btn" href="pycrawlfeed.json">Open raw file</a>
+        <code id="rawurl"></code>
+      </div>
+      <pre id="json">Loading…</pre>
+    </section>
+  </main>
+
+  <footer>
+    Direct access: <a href="pycrawlfeed.json">pycrawlfeed.json</a> ·
+    <a href="https://raw.githubusercontent.com/twpZero/pycrawl-feed/master/pycrawlfeed.json">raw.githubusercontent.com</a> ·
+    <a href="https://github.com/twpZero/pycrawl-feed">repository</a>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var TREND_ROWS = 25;
+  var data = null, rawText = "", showAllTrends = false;
+  var $ = function (id) { return document.getElementById(id); };
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function hl(s, q) {
+    s = esc(s);
+    if (!q) return s;
+    var re = new RegExp("(" + esc(q).replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "gi");
+    return s.replace(re, "<mark>$1</mark>");
+  }
+  function splitUrl(u) {
+    try {
+      var p = new URL(u);
+      return { host: p.hostname.replace(/^www\./, ""), rest: (p.pathname + p.search).replace(/\/$/, "") };
+    } catch (e) { return { host: "", rest: u }; }
+  }
+  function safeHref(u) { return /^https?:\/\//i.test(u) ? u : "#"; }
+
+  function render() {
+    var q = $("q").value.trim().toLowerCase();
+    var veille = data.Veille || {}, trends = data.Trends || {};
+    var keys = Object.keys(veille);
+    var withLinks = keys.filter(function (k) { return veille[k].length; })
+      .sort(function (a, b) { return veille[b].length - veille[a].length || a.localeCompare(b); });
+    var noLinks = keys.filter(function (k) { return !veille[k].length; }).sort();
+    var totalLinks = withLinks.reduce(function (n, k) { return n + veille[k].length; }, 0);
+    var trendCounts = Object.keys(trends).map(Number).sort(function (a, b) { return b - a; });
+    var totalWords = trendCounts.reduce(function (n, c) { return n + trends[c].split(",").length; }, 0);
+
+    $("stats").textContent = keys.length + " keywords watched · " + withLinks.length + " with hits · " +
+      totalLinks + " article links · " + totalWords + " trending words";
+
+    var html = "";
+    withLinks.forEach(function (k) {
+      var kHit = !q || k.toLowerCase().indexOf(q) >= 0;
+      var links = veille[k].filter(function (u) { return kHit || u.toLowerCase().indexOf(q) >= 0; });
+      if (!links.length) return;
+      html += '<div class="kw"><h3><span>' + hl(k, q) + '</span><span class="n">' + veille[k].length + "</span></h3><ul>";
+      links.forEach(function (u) {
+        var p = splitUrl(u);
+        html += '<li><a href="' + esc(safeHref(u)) + '" title="' + esc(u) + '" target="_blank" rel="noopener">' +
+          '<span class="host">' + hl(p.host, q) + "</span>" + hl(p.rest, q) + "</a></li>";
+      });
+      html += "</ul></div>";
+    });
+    $("veille").innerHTML = html || '<p class="empty">No matching keyword or link.</p>';
+
+    var empties = noLinks.filter(function (k) { return !q || k.toLowerCase().indexOf(q) >= 0; });
+    $("veille-empty").innerHTML = empties.length
+      ? "No new articles for: " + empties.map(function (k) { return "<span>" + hl(k, q) + "</span>"; }).join("")
+      : "";
+
+    var rows = [];
+    trendCounts.forEach(function (c) {
+      var words = trends[c].split(",").filter(function (w) { return w && (!q || w.toLowerCase().indexOf(q) >= 0); });
+      if (words.length) rows.push('<div class="trow"><span class="c">' + c + '</span><span class="w">' +
+        words.map(function (w) { return hl(w, q); }).join(", ") + "</span></div>");
+    });
+    var limit = q || showAllTrends ? rows.length : TREND_ROWS;
+    $("trends").innerHTML = rows.slice(0, limit).join("") || '<div class="trow empty">No matching word.</div>';
+    var more = $("more");
+    more.hidden = rows.length <= TREND_ROWS || !!q;
+    more.textContent = showAllTrends ? "Show fewer" : "Show all " + rows.length + " occurrence levels";
+  }
+
+  function selectTab(name, push) {
+    var raw = name === "raw";
+    $("tab-feed").setAttribute("aria-selected", String(!raw));
+    $("tab-raw").setAttribute("aria-selected", String(raw));
+    $("feed").hidden = raw;
+    $("raw").hidden = !raw;
+    $("q").hidden = raw;
+    if (push) history.replaceState(null, "", raw ? "#raw" : location.pathname + location.search);
+  }
+
+  $("tab-feed").onclick = function () { selectTab("feed", true); };
+  $("tab-raw").onclick = function () { selectTab("raw", true); };
+  window.addEventListener("hashchange", function () { selectTab(location.hash === "#raw" ? "raw" : "feed"); });
+  selectTab(location.hash === "#raw" ? "raw" : "feed");
+
+  $("q").addEventListener("input", function () { if (data) render(); });
+  $("more").onclick = function () { showAllTrends = !showAllTrends; render(); };
+  $("copy").onclick = function () {
+    var b = this;
+    navigator.clipboard.writeText(rawText).then(function () {
+      b.textContent = "Copied"; setTimeout(function () { b.textContent = "Copy"; }, 1500);
+    }, function () { b.textContent = "Copy failed"; });
+  };
+  $("rawurl").textContent = new URL("pycrawlfeed.json", location.href).href;
+
+  fetch("pycrawlfeed.json", { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.text(); })
+    .then(function (t) {
+      rawText = t;
+      data = JSON.parse(t);
+      $("json").textContent = JSON.stringify(data, null, 2);
+      render();
+    })
+    .catch(function (e) {
+      $("stats").textContent = "Could not load pycrawlfeed.json (" + e.message + ").";
+      $("json").textContent = "Could not load pycrawlfeed.json (" + e.message + ").";
+    });
+})();
+</script>
+</body>
+</html>
