@@ -55,12 +55,12 @@ input[type="search"] {
 .btn:hover { border-color: var(--accent); }
 .stats { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
 h2 { font-size: 15px; margin: 16px 0 8px; }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 8px; }
+.grid { display: grid; grid-template-columns: 1fr; gap: 8px; }
 .kw { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; min-width: 0; }
 .kw h3 { margin: 0 0 4px; font-size: 14px; display: flex; justify-content: space-between; gap: 8px; }
 .kw h3 .n { color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; }
 .kw ul { margin: 0; padding: 0; list-style: none; }
-.kw li { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 13px; }
+.kw li { overflow-wrap: anywhere; font-size: 13px; }
 .kw li .host { color: var(--muted); }
 .empty { color: var(--muted); font-size: 13px; }
 .empty span { display: inline-block; background: var(--code-bg); border-radius: 4px; padding: 0 6px; margin: 2px 2px 0 0; }
@@ -142,10 +142,8 @@ footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
     return s.replace(re, "<mark>$1</mark>");
   }
   function splitUrl(u) {
-    try {
-      var p = new URL(u);
-      return { host: p.hostname.replace(/^www\./, ""), rest: (p.pathname + p.search).replace(/\/$/, "") };
-    } catch (e) { return { host: "", rest: u }; }
+    var i = u.indexOf("/", u.indexOf("//") + 2);
+    return i < 0 ? { host: u, rest: "" } : { host: u.slice(0, i), rest: u.slice(i) };
   }
   function safeHref(u) { return /^https?:\/\//i.test(u) ? u : "#"; }
 
@@ -171,7 +169,7 @@ footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
       html += '<div class="kw"><h3><span>' + hl(k, q) + '</span><span class="n">' + veille[k].length + "</span></h3><ul>";
       links.forEach(function (u) {
         var p = splitUrl(u);
-        html += '<li><a href="' + esc(safeHref(u)) + '" title="' + esc(u) + '" target="_blank" rel="noopener">' +
+        html += '<li><a href="' + esc(safeHref(u)) + '" target="_blank" rel="noopener">' +
           '<span class="host">' + hl(p.host, q) + "</span>" + hl(p.rest, q) + "</a></li>";
       });
       html += "</ul></div>";
