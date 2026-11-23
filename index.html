@@ -154,7 +154,9 @@ footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
     var withLinks = keys.filter(function (k) { return veille[k].length; })
       .sort(function (a, b) { return veille[b].length - veille[a].length || a.localeCompare(b); });
     var noLinks = keys.filter(function (k) { return !veille[k].length; }).sort();
-    var totalLinks = withLinks.reduce(function (n, k) { return n + veille[k].length; }, 0);
+    var seenLinks = {};
+    withLinks.forEach(function (k) { veille[k].forEach(function (u) { seenLinks[u] = 1; }); });
+    var totalLinks = Object.keys(seenLinks).length;
     var trendCounts = Object.keys(trends).map(Number).sort(function (a, b) { return b - a; });
     var totalWords = trendCounts.reduce(function (n, c) { return n + trends[c].split(",").length; }, 0);
 
