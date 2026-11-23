@@ -31,5 +31,20 @@ if not feed.get("Trends"):
     sys.exit("No trends: every source failed? Feed left unchanged.")
 PY
 
+# Several runs on the same UTC day add up: keep the links already in today's feed.
+python3 - "$FEED/pycrawlfeed.json" <<'PY'
+import json, sys
+new = json.load(open("pycrawlfeed.json"))
+try:
+    old = json.load(open(sys.argv[1]))
+except (OSError, ValueError):
+    old = {}
+if old.get("Updated", "")[:10] == new["Updated"][:10]:
+    for word, links in old.get("Veille", {}).items():
+        current = new["Veille"].setdefault(word, [])
+        current += [u for u in links if u not in current]
+json.dump(new, open("pycrawlfeed.json", "w"))
+PY
+
 cp pycrawlfeed.json links.dump "$FEED/"
 echo "Feed updated: $(python3 -c 'import json; print(json.load(open("pycrawlfeed.json"))["Updated"])')"

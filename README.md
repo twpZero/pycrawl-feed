@@ -38,7 +38,7 @@ curl -s https://raw.githubusercontent.com/twpZero/pycrawl-feed/master/pycrawlfee
 ## How it updates
 
 * `.github/workflows/update-feed.yml` runs `update-feed.sh` every day at 05:17 UTC (or on demand from the Actions tab).
-* `update-feed.sh` clones [pycrawl](https://github.com/twpZero/pycrawl), crawls the sources listed in its `crawl.conf`, and writes `pycrawlfeed.json` and `links.dump` (the links seen on earlier runs, so only new ones land in *Veille*). It keeps the old feed if every source failed.
+* `update-feed.sh` clones [pycrawl](https://github.com/twpZero/pycrawl), crawls the sources listed in its `crawl.conf`, and writes `pycrawlfeed.json` and `links.dump` (the links seen on earlier runs, so only new ones land in *Veille*). It keeps the old feed if every source failed, and a second run on the same day adds to that day's feed instead of replacing it.
 * `register.dump` lists the watched keywords. Sources and the word blacklist live in pycrawl's `crawl.conf`.
 
 To run it by hand: `./update-feed.sh`, then commit the two files.
